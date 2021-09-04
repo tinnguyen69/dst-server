@@ -1,0 +1,30 @@
+Adds a backpack and amulet slot to the game.
+
+[h1]Patch List[/h1]
+v1.0 - Alpha Release
+v1.1 - Patched to support [url=http://steamcommunity.com/games/322330/announcements/detail/226637980085320711]Hotfix 123591[/url]
+v1.2 - Fixed the Interface not properly 'rebuild' when loading to a previously saved game.
+v1.3 - Patched to support [url=http://steamcommunity.com/games/322330/announcements/detail/226638525917068347]Hotfix 124021[/url]
+v1.4 - Rewrite the structure of the mod to run without using full files. Also, new preview icon :D
+v1.5 - Fixed a bug where the client's backpack items are not counted/checked when building something.
+v1.5.1 - Fixed a clashing bug.
+v1.5.2 - Updated image/tex file (possible cause for some people crashing).
+v1.6 - Compatibility patch (thanks to star)
+v1.7 - Fixed inteface overlapping with "inspect self" button (unknown hotfix/update number).
+v1.8 - Fix incompatibility due to EQUIPSLOT_IDS table creation moving from components/playerinspectable.lua to constants.lua (by Muche see [url=http://steamcommunity.com/workshop/filedetails/discussion/375850593/611704730321219071/]here[/url])
+
+[h1]Credits[/h1]
+[list]
+[*]Fontonkonbonmon (original)
+[*]tehMugwump
+[*]Afro1967 (RoG)
+[*]Darklokey276
+[*]Vanguard Prime
+[*]I am Zero One
+[*]outseeker (au)
+[*]Marco
+[*]Snowy
+[/list]
+
+[h1]Source[/h1]
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=277517714]Backpack and Amulet Slots[/url]
