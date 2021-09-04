@@ -1,0 +1,59 @@
+[00:01:06]: [Join Announcement] Don't Starve
+[00:01:47]: [Join Announcement] Charlotle
+[00:02:05]: [Join Announcement] Haskuller
+[00:02:21]: [Say] (KU_NFyY3m5b) Don't Starve: trang ram kia
+[00:02:29]: [Say] (KU_pvwb-Z0g) Charlotle: ke di
+[00:02:34]: [Say] (KU_pvwb-Z0g) Charlotle: con grom me chet chua
+[00:02:35]: [Say] (KU_NFyY3m5b) Don't Starve: go ggo
+[00:02:45]: [Say] (KU_pvwb-Z0g) Charlotle: 1 vach
+[00:02:48]: [Say] (KU_MAFS6mz6) Haskuller: cho xi
+[00:02:51]: [Say] (KU_pvwb-Z0g) Charlotle: ma boss bear mo
+[00:02:55]: [Say] (KU_pvwb-Z0g) Charlotle: eot hay
+[00:02:57]: [Say] (KU_NFyY3m5b) Don't Starve: hoi rom ta
+[00:03:02]: [Say] (KU_pvwb-Z0g) Charlotle: boss bear mo rom
+[00:03:06]: [Say] (KU_NFyY3m5b) Don't Starve: no gan pig king thi phai
+[00:03:14]: [Say] (KU_MAFS6mz6) Haskuller: noi gan dong lua a'
+[00:03:18]: [Say] (KU_pvwb-Z0g) Charlotle: me the pha me nha heoa
+[00:03:34]: [Say] (KU_pvwb-Z0g) Charlotle: ;lag
+[00:03:41]: [Say] (KU_NFyY3m5b) Don't Starve: Huongg 1 vach
+[00:03:42]: [Say] (KU_NFyY3m5b) Don't Starve: vl
+[00:03:52]: [Say] (KU_pvwb-Z0g) Charlotle: no hu laf chay di rui quay lai danh boss
+[00:03:58]: [Say] (KU_NFyY3m5b) Don't Starve: ok
+[00:04:04]: [Say] (KU_pvwb-Z0g) Charlotle: rom dau
+[00:04:04]: [Say] (KU_NFyY3m5b) Don't Starve: nhanh rom
+[00:04:06]: [Say] (KU_NFyY3m5b) Don't Starve: moe
+[00:04:08]: [Say] (KU_pvwb-Z0g) Charlotle: nhanh caan
+[00:04:15]: [Say] (KU_NFyY3m5b) Don't Starve: danh boss ma lam meo gi do
+[00:04:16]: [Say] (KU_pvwb-Z0g) Charlotle: con 1 mon do an chet doi h
+[00:05:03]: [Say] (KU_MAFS6mz6) Haskuller: bay dau roi
+[00:05:06]: [Say] (KU_NFyY3m5b) Don't Starve: me
+[00:05:07]: [Say] (KU_NFyY3m5b) Don't Starve: boss ong
+[00:05:08]: [Say] (KU_pvwb-Z0g) Charlotle: 2 mon rock nua doi con duco rui
+[00:05:12]: [Say] (KU_NFyY3m5b) Don't Starve: khi lam chi rua bay
+[00:05:32]: [Say] (KU_MAFS6mz6) Haskuller: bay dau roi
+[00:05:38]: [Say] (KU_NFyY3m5b) Don't Starve: boss ong
+[00:05:38]: [Say] (KU_pvwb-Z0g) Charlotle: boss ong mo
+[00:05:40]: [Say] (KU_NFyY3m5b) Don't Starve: dm
+[00:05:41]: [Say] (KU_pvwb-Z0g) Charlotle: bat map len thay
+[00:06:28]: [Say] (KU_NFyY3m5b) Don't Starve: khi rom chat ko thay ha bay?
+[00:06:44]: [Say] (KU_pvwb-Z0g) Charlotle: dung noi ko biet boss ong mo
+[00:06:51]: [Say] (KU_NFyY3m5b) Don't Starve: mme
+[00:06:53]: [Say] (KU_NFyY3m5b) Don't Starve: le me vl
+[00:06:54]: [Say] (KU_MAFS6mz6) Haskuller: go
+[00:06:57]: [Say] (KU_NFyY3m5b) Don't Starve: qua nhanh len
+[00:06:59]: [Say] (KU_MAFS6mz6) Haskuller: t lam do ans
+[00:07:01]: [Say] (KU_MAFS6mz6) Haskuller: dms
+[00:07:05]: [Say] (KU_NFyY3m5b) Don't Starve: an an coin caard
+[00:07:19]: [Say] (KU_pvwb-Z0g) Charlotle: go chua
+[00:07:22]: [Say] (KU_NFyY3m5b) Don't Starve: dap
+[00:07:27]: [Say] (KU_NFyY3m5b) Don't Starve: giet
+[00:07:55]: [Say] (KU_NFyY3m5b) Don't Starve: ve day
+[00:07:58]: [Say] (KU_pvwb-Z0g) Charlotle: vay day rom
+[00:08:10]: [Say] (KU_NFyY3m5b) Don't Starve: nhen danh v;l
+[00:08:11]: [Say] (KU_pvwb-Z0g) Charlotle: hu bong danh ong von duoc ko rom
+[00:08:26]: [Say] (KU_pvwb-Z0g) Charlotle: lag thiet
+[00:13:26]: [Death Announcement] Don't Starve was killed by Bee Queen. He became a spooky ghost!
+[00:13:36]: [Say] (KU_NFyY3m5b) Don't Starve: cung co ve sap dc :D
+[00:13:46]: [Death Announcement] Charlotle was killed by Grumble Bee. He became a spooky ghost!
+[00:13:54]: [Death Announcement] Haskuller was killed by Grumble Bee. She became a spooky ghost!
+[00:13:56]: [Leave Announcement] Don't Starve

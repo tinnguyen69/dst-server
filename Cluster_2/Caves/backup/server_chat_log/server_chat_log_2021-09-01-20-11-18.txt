@@ -1,0 +1,49 @@
+[00:00:52]: [Join Announcement] Don't Starve
+[00:01:05]: [Join Announcement] Charlotle
+[00:03:24]: [Join Announcement] Haskuller
+[00:03:36]: [Say] (KU_pvwb-Z0g) Charlotle: cam them do hoi mau nhe tin
+[00:03:40]: [Say] (KU_NFyY3m5b) Don't Starve: oke
+[00:03:45]: [Say] (KU_pvwb-Z0g) Charlotle: ta mang 20 cai them rui
+[00:04:04]: [Say] (KU_pvwb-Z0g) Charlotle: ta amng trai tim qua luion rui
+[00:04:50]: [Say] (KU_NFyY3m5b) Don't Starve: le rom
+[00:04:53]: [Say] (KU_NFyY3m5b) Don't Starve: lam gi do?
+[00:05:41]: [Say] (KU_NFyY3m5b) Don't Starve: di
+[00:05:44]: [Say] (KU_NFyY3m5b) Don't Starve: ta cam do hoi mau roi
+[00:05:52]: [Say] (KU_pvwb-Z0g) Charlotle: qua day co do hoi mua nua
+[00:05:55]: [Say] (KU_MAFS6mz6) Haskuller: di
+[00:05:56]: [Say] (KU_pvwb-Z0g) Charlotle: qua di ko soi ha
+[00:07:19]: [Say] (KU_MAFS6mz6) Haskuller: dm lag
+[00:07:21]: [Say] (KU_MAFS6mz6) Haskuller: deo di dc
+[00:07:48]: [Say] (KU_pvwb-Z0g) Charlotle: qya day chap keu ma danh ong con di cho nhen danh boss
+[00:08:08]: [Leave Announcement] Charlotle
+[00:08:11]: [Leave Announcement] Haskuller
+[00:08:39]: [Join Announcement] Charlotle
+[00:09:36]: [Join Announcement] Haskuller
+[00:09:45]: [Say] (KU_pvwb-Z0g) Charlotle: boss bear o mo rom
+[00:10:01]: [Say] (KU_pvwb-Z0g) Charlotle: go chua
+[00:10:08]: [Say] (KU_MAFS6mz6) Haskuller: chay deo dc
+[00:10:11]: [Say] (KU_pvwb-Z0g) Charlotle: hoi mau ne
+[00:10:25]: [Say] (KU_NFyY3m5b) Don't Starve: rom 3 vach van bi ha
+[00:10:30]: [Say] (KU_NFyY3m5b) Don't Starve: 2 vahc rui
+[00:10:32]: [Say] (KU_pvwb-Z0g) Charlotle: danh nha rom qua sau
+[00:10:36]: [Say] (KU_NFyY3m5b) Don't Starve: u
+[00:11:03]: [Say] (KU_MAFS6mz6) Haskuller: bay dau roi
+[00:11:08]: [Say] (KU_pvwb-Z0g) Charlotle: ong
+[00:13:09]: [Say] (KU_NFyY3m5b) Don't Starve: vo
+[00:13:42]: [Say] (KU_MAFS6mz6) Haskuller: lag vl
+[00:13:48]: [Leave Announcement] Charlotle
+[00:13:52]: [Leave Announcement] Haskuller
+[00:14:41]: [Join Announcement] Charlotle
+[00:15:03]: [Death Announcement] Charlotle was killed by Bee Queen. He became a spooky ghost!
+[00:15:05]: [Say] (KU_pvwb-Z0g) Charlotle: det
+[00:15:13]: [Say] (KU_pvwb-Z0g) Charlotle: dau
+[00:15:16]: [Say] (KU_pvwb-Z0g) Charlotle: day ne tin
+[00:15:22]: [Resurrect Announcement] Charlotle was resurrected by Don't Starve.
+[00:17:15]: [Join Announcement] Haskuller
+[00:18:04]: [Death Announcement] Charlotle was killed by Grumble Bee. He became a spooky ghost!
+[00:18:05]: [Leave Announcement] Charlotle
+[00:18:06]: [Death Announcement] Don't Starve was killed by Bee Queen. He became a spooky ghost!
+[00:18:06]: [Death Announcement] Haskuller was killed by Grumble Bee. She became a spooky ghost!
+[00:18:07]: [Leave Announcement] Haskuller
+[00:18:07]: [Say] (KU_NFyY3m5b) Don't Starve: lag qua
+[00:18:11]: [Leave Announcement] Don't Starve
