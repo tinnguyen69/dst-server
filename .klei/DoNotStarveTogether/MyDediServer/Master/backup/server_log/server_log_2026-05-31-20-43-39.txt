@@ -1,0 +1,1316 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 62%
+	Available Physical Memory: 3065m/8085m
+	Available Page File: 6354m/13461m
+	Available Virtual Memory: 134213483m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 31m
+	Working Set Size: 31m
+	Quota Peak Page Pool Usage: 215k
+	Quota Page Pool Usage: 211k
+	Quota Peak Non Paged Pool Usage:14k
+	Quota Non Paged Pool Usage: 14k
+	Page File Usage: 5m
+	Peak Page File Usage: 5m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/120955969/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 728321
+[00:00:00]: Current time: Sun May 31 13:34:43 2026
+
+[00:00:00]: Don't Starve Together: 728321 WIN32
+[00:00:00]: Build Date: 4115
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -monitor_parent_process 9188 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_1 -fo -ownernetid 76561198081221697 -ownerdir 120955969 -clouddir 120955969 -backup_log_count 25 -backup_log_period 0 -ugc_directory D:\\SteamLibrary\\steamapps\\workshop -shard Master -secondary_log_prefix master -sigprefix DST_Master -token ************************************************************************************ 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (11028)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:4.18
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application D:\SteamLibrary\steamapps\common\Don't Starve Together\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/120955969/client_save/blocklist.txt (Failure)
+[00:00:00]: THREAD - started 'StreamInput' (12724)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/120955969/client_save/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/120955969/client_save/whitelist.txt (Failure)
+[00:00:00]: Offline user ID: OU_76561198081221697
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Pro
+    version                   10.0.19045
+    platformSpecific          SP 0.0
+    architecture              64-bit
+  CPU                       
+    clockSpeed                3401
+    name                      Intel(R) Xeon(R) CPU E3-1245 v3 @ 3.40GHz
+    manufacturer              GenuineIntel
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    megsOfRam                 4095
+    videoModeDescription      1920 x 1080 x 4294967296 colors
+    name                      NVIDIA GeForce GTX 1660
+    driverVersion             32.0.15.9649
+    driverDate                20260505000000.000000-000
+    refreshRate               59
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x64
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:05]:   taskgrouplist:	default	Together	
+[00:00:05]:   taskgrouplist:	classic	Classic	
+[00:00:05]:   taskgrouplist:	cave_default	Underground	
+[00:00:05]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:05]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:05]: Running main.lua
+	
+[00:00:05]: loaded modindex	
+[00:00:05]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:05]: SUCCESS: Loaded modoverrides.lua	
+[00:00:05]: modoverrides.lua enabling workshop-2659976744	
+[00:00:05]: modoverrides.lua enabling workshop-378160973	
+[00:00:05]: modoverrides.lua enabling workshop-2823530744	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2659976744	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2823530744	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2659976744_CLIENT	
+[00:00:05]: Loading mod: workshop-2659976744 (Indestructible Eye Mask) Version:2.0	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:05]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.6	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2823530744_CLIENT	
+[00:00:05]: Loading mod: workshop-2823530744 (Extra Equip Slots Plus +) Version:1.0.7	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-2659976744	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:05]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWFIREICONS with value false	
+[00:00:05]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value false	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:05]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:05]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-2823530744	
+[00:00:05]: Overriding mod workshop-2823530744's option compass_slot with value false	
+[00:00:05]: Overriding mod workshop-2823530744's option slots_bg_length_adapter_no_bg with value false	
+[00:00:05]: Overriding mod workshop-2823530744's option slots_bg_length_adapter with value 0	
+[00:00:05]: Overriding mod workshop-2823530744's option amulet_slot with value true	
+[00:00:05]: Overriding mod workshop-2823530744's option chesspiece_fix with value true	
+[00:00:05]: Overriding mod workshop-2823530744's option slots_num with value 0	
+[00:00:05]: Overriding mod workshop-2823530744's option backpack_slot with value true	
+[00:00:05]: Overriding mod workshop-2823530744's option drop_hand_item_when_heavy with value true	
+[00:00:05]: Overriding mod workshop-2823530744's option show_compass with value true	
+[00:00:05]: Registering Mods:
+[00:00:05]:    Registering Mod workshop-2659976744
+[00:00:05]:    Registering Mod workshop-378160973
+[00:00:05]:    Registering Mod workshop-2823530744
+[00:00:05]: Mods registered.
+[00:00:05]: Mod: workshop-2659976744 (Indestructible Eye Mask)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-2659976744 (Indestructible Eye Mask)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-2659976744 (Indestructible Eye Mask)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2659976744	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2823530744	
+[00:00:05]: Mod: workshop-2823530744 (Extra Equip Slots Plus +)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-2823530744 (Extra Equip Slots Plus +)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-2823530744 (Extra Equip Slots Plus +)	Loading modmain.lua	
+[00:00:05]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:07]: LOADING LUA SUCCESS
+[00:00:07]: Registering Server mod namespace "workshop-378160973"
+[00:00:07]: PlayerDeaths could not load morgue	
+[00:00:07]: PlayerHistory could not load player_history	
+[00:00:07]: ServerPreferences could not load server_preferences	
+[00:00:07]: ConsoleScreenSettings could not load consolescreen	
+[00:00:07]: bloom_enabled	true	
+[00:00:07]: OnFilesLoaded()	
+[00:00:07]: OnUpdatePurchaseStateComplete	
+[00:00:07]: Klump load on boot started.	
+[00:00:07]: Klump files loaded: 	0	
+[00:00:10]: Mod: workshop-2659976744 (Indestructible Eye Mask)	Registering prefabs	
+[00:00:10]: Mod: workshop-2659976744 (Indestructible Eye Mask)	  Registering default mod prefab	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:10]: Mod: workshop-2823530744 (Extra Equip Slots Plus +)	Registering prefabs	
+[00:00:10]: Mod: workshop-2823530744 (Extra Equip Slots Plus +)	  Registering default mod prefab	
+[00:00:10]: 	Load FE	
+[00:00:13]: 	Load FE: done	
+[00:00:13]: THREAD - started 'FilesExistAsyncThread' (14556)
+[00:00:13]: FilesExistAsyncThread started (0 files)...
+[00:00:13]: ... FilesExistAsyncThread complete
+[00:00:13]: Check for write access: TRUE
+[00:00:13]: Check for read access: TRUE
+[00:00:13]: Available disk space for save files: 46029 MB
+[00:00:13]: ModIndex: Load sequence finished successfully.	
+[00:00:13]: Reset() returning
+[00:00:13]: [IPC] Signal 'DST_Master_Kill' opened  #00000000000009E8
+[00:00:13]: [IPC] Registering handler for signal #00000000000009E8
+[00:00:13]: [IPC] Handle #00000000000009E8 added to the Eventhandles
+[00:00:13]: [IPC] Signal 'DST_Master_ShutdownNoSave' opened  #00000000000009F0
+[00:00:13]: [IPC] Registering handler for signal #00000000000009F0
+[00:00:13]: [IPC] Handle #00000000000009F0 added to the Eventhandles
+[00:00:13]: [IPC] Signal 'DST_Master_Starting' opened  #0000000000000990
+[00:00:13]: [IPC] Sending signal... #0000000000000990
+[00:00:14]: [200] Account Communication Success (6)
+[00:00:14]: Cached userid (null) saved to APP:Klei//DoNotStarveTogether/120955969/Cluster_1/Master/save/cached_userid
+[00:00:14]: Received (KU_NFyY3m5b) from TokenPurpose
+[00:00:14]: Starting Dedicated Server Game	
+[00:00:14]: Network tick rate: U=15(2), D=0
+[00:00:14]: About to start a server with the following settings:
+[00:00:14]:   Dedicated: true
+[00:00:14]:   Online: true
+[00:00:14]:   Passworded: false
+[00:00:14]:   ServerPort: 10999
+[00:00:14]:   SteamAuthPort: 8766
+[00:00:14]:   SteamMasterServerPort: 27016
+[00:00:14]:   ClanID: false
+[00:00:14]:   ClanOnly: false
+[00:00:14]:   ClanAdmin: false
+[00:00:14]:   LanOnly: false
+[00:00:14]:   FriendsOnly: true
+[00:00:14]:   EnableAutosaver: true
+[00:00:14]:   EncodeUserPath: true
+[00:00:14]:   PVP: false
+[00:00:14]:   MaxPlayers: 6
+[00:00:14]:   GameMode: survival
+[00:00:14]:   OverridenDNS: 
+[00:00:14]:   PauseWhenEmpty: true
+[00:00:14]:   IdleTimeout: 1800s
+[00:00:14]:   VoteEnabled: false
+[00:00:14]:   InternetBroadcasting: true
+[00:00:14]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:14]: Could not load mod_config_data/modconfiguration_workshop-2659976744	
+[00:00:14]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:14]: Could not load mod_config_data/modconfiguration_workshop-2823530744	
+[00:00:14]: Online Server Started on port: 10999
+[00:00:14]: SUCCESS: Loaded modoverrides.lua	
+[00:00:14]: Found a level data override file with these contents:	
+[00:00:14]: 	K: 	desc	 V: 	The standard Don't Starve experience.	
+[00:00:14]: 	K: 	hideminimap	 V: 	false	
+[00:00:14]: 	K: 	id	 V: 	SURVIVAL_TOGETHER	
+[00:00:14]: 	K: 	location	 V: 	forest	
+[00:00:14]: 	K: 	max_playlist_position	 V: 	999	
+[00:00:14]: 	K: 	min_playlist_position	 V: 	0	
+[00:00:14]: 	K: 	name	 V: 	Survival	
+[00:00:14]: 	K: 	numrandom_set_pieces	 V: 	4	
+[00:00:14]: 	K: 	override_level_string	 V: 	false	
+[00:00:14]: 	K: 	overrides	 V: 	table: 0000000010A34BB0	
+[00:00:14]: 		K: 	alternatehunt	 V: 	default	
+[00:00:14]: 		K: 	angrybees	 V: 	default	
+[00:00:14]: 		K: 	antliontribute	 V: 	default	
+[00:00:14]: 		K: 	autumn	 V: 	default	
+[00:00:14]: 		K: 	balatro	 V: 	default	
+[00:00:14]: 		K: 	bananabush_portalrate	 V: 	default	
+[00:00:14]: 		K: 	basicresource_regrowth	 V: 	none	
+[00:00:14]: 		K: 	bats_setting	 V: 	default	
+[00:00:14]: 		K: 	bearger	 V: 	default	
+[00:00:14]: 		K: 	beefalo	 V: 	default	
+[00:00:14]: 		K: 	beefaloheat	 V: 	default	
+[00:00:14]: 		K: 	beequeen	 V: 	default	
+[00:00:14]: 		K: 	bees	 V: 	default	
+[00:00:14]: 		K: 	bees_setting	 V: 	default	
+[00:00:14]: 		K: 	berrybush	 V: 	default	
+[00:00:14]: 		K: 	birds	 V: 	default	
+[00:00:14]: 		K: 	boons	 V: 	default	
+[00:00:14]: 		K: 	branching	 V: 	default	
+[00:00:14]: 		K: 	brightmarecreatures	 V: 	default	
+[00:00:14]: 		K: 	bunnymen_setting	 V: 	default	
+[00:00:14]: 		K: 	butterfly	 V: 	default	
+[00:00:14]: 		K: 	buzzard	 V: 	default	
+[00:00:14]: 		K: 	cactus	 V: 	default	
+[00:00:14]: 		K: 	cactus_regrowth	 V: 	default	
+[00:00:14]: 		K: 	carrot	 V: 	default	
+[00:00:14]: 		K: 	carrots_regrowth	 V: 	default	
+[00:00:14]: 		K: 	catcoon	 V: 	default	
+[00:00:14]: 		K: 	catcoons	 V: 	default	
+[00:00:14]: 		K: 	chess	 V: 	default	
+[00:00:14]: 		K: 	cookiecutters	 V: 	default	
+[00:00:14]: 		K: 	crabking	 V: 	default	
+[00:00:14]: 		K: 	crow_carnival	 V: 	default	
+[00:00:14]: 		K: 	darkness	 V: 	default	
+[00:00:14]: 		K: 	day	 V: 	default	
+[00:00:14]: 		K: 	daywalker2	 V: 	default	
+[00:00:14]: 		K: 	deciduousmonster	 V: 	default	
+[00:00:14]: 		K: 	deciduoustree_regrowth	 V: 	default	
+[00:00:14]: 		K: 	deerclops	 V: 	default	
+[00:00:14]: 		K: 	dragonfly	 V: 	default	
+[00:00:14]: 		K: 	dropeverythingondespawn	 V: 	default	
+[00:00:14]: 		K: 	evergreen_regrowth	 V: 	default	
+[00:00:14]: 		K: 	extrastartingitems	 V: 	default	
+[00:00:14]: 		K: 	eyeofterror	 V: 	default	
+[00:00:14]: 		K: 	fishschools	 V: 	default	
+[00:00:14]: 		K: 	flint	 V: 	default	
+[00:00:14]: 		K: 	flowers	 V: 	default	
+[00:00:14]: 		K: 	flowers_regrowth	 V: 	default	
+[00:00:14]: 		K: 	frograin	 V: 	default	
+[00:00:14]: 		K: 	frogs	 V: 	default	
+[00:00:14]: 		K: 	fruitfly	 V: 	default	
+[00:00:14]: 		K: 	ghostenabled	 V: 	always	
+[00:00:14]: 		K: 	ghostsanitydrain	 V: 	always	
+[00:00:14]: 		K: 	gnarwail	 V: 	default	
+[00:00:14]: 		K: 	goosemoose	 V: 	default	
+[00:00:14]: 		K: 	grass	 V: 	default	
+[00:00:14]: 		K: 	grassgekkos	 V: 	default	
+[00:00:14]: 		K: 	hallowed_nights	 V: 	default	
+[00:00:14]: 		K: 	has_ocean	 V: 	true	
+[00:00:14]: 		K: 	healthpenalty	 V: 	always	
+[00:00:14]: 		K: 	hound_mounds	 V: 	default	
+[00:00:14]: 		K: 	houndmound	 V: 	default	
+[00:00:14]: 		K: 	hounds	 V: 	default	
+[00:00:14]: 		K: 	hunger	 V: 	default	
+[00:00:14]: 		K: 	hunt	 V: 	default	
+[00:00:14]: 		K: 	junkyard	 V: 	default	
+[00:00:14]: 		K: 	keep_disconnected_tiles	 V: 	true	
+[00:00:14]: 		K: 	klaus	 V: 	default	
+[00:00:14]: 		K: 	krampus	 V: 	default	
+[00:00:14]: 		K: 	layout_mode	 V: 	LinkNodesByKeys	
+[00:00:14]: 		K: 	lessdamagetaken	 V: 	none	
+[00:00:14]: 		K: 	liefs	 V: 	default	
+[00:00:14]: 		K: 	lightcrab_portalrate	 V: 	default	
+[00:00:14]: 		K: 	lightning	 V: 	default	
+[00:00:14]: 		K: 	lightninggoat	 V: 	default	
+[00:00:14]: 		K: 	loop	 V: 	default	
+[00:00:14]: 		K: 	lunarhail_frequency	 V: 	default	
+[00:00:14]: 		K: 	lureplants	 V: 	default	
+[00:00:14]: 		K: 	malbatross	 V: 	default	
+[00:00:14]: 		K: 	marshbush	 V: 	default	
+[00:00:14]: 		K: 	merm	 V: 	default	
+[00:00:14]: 		K: 	merms	 V: 	default	
+[00:00:14]: 		K: 	meteorshowers	 V: 	default	
+[00:00:14]: 		K: 	meteorspawner	 V: 	default	
+[00:00:14]: 		K: 	moles	 V: 	default	
+[00:00:14]: 		K: 	moles_setting	 V: 	default	
+[00:00:14]: 		K: 	monkeytail_portalrate	 V: 	default	
+[00:00:14]: 		K: 	moon_berrybush	 V: 	default	
+[00:00:14]: 		K: 	moon_bullkelp	 V: 	default	
+[00:00:14]: 		K: 	moon_carrot	 V: 	default	
+[00:00:14]: 		K: 	moon_fissure	 V: 	default	
+[00:00:14]: 		K: 	moon_fruitdragon	 V: 	default	
+[00:00:14]: 		K: 	moon_hotspring	 V: 	default	
+[00:00:14]: 		K: 	moon_rock	 V: 	default	
+[00:00:14]: 		K: 	moon_sapling	 V: 	default	
+[00:00:14]: 		K: 	moon_spider	 V: 	default	
+[00:00:14]: 		K: 	moon_spiders	 V: 	default	
+[00:00:14]: 		K: 	moon_starfish	 V: 	default	
+[00:00:14]: 		K: 	moon_tree	 V: 	default	
+[00:00:14]: 		K: 	moon_tree_regrowth	 V: 	default	
+[00:00:14]: 		K: 	mosquitos	 V: 	default	
+[00:00:14]: 		K: 	mushroom	 V: 	default	
+[00:00:14]: 		K: 	mutated_bearger	 V: 	default	
+[00:00:14]: 		K: 	mutated_bird_gestalt	 V: 	default	
+[00:00:14]: 		K: 	mutated_birds	 V: 	default	
+[00:00:14]: 		K: 	mutated_buzzard_gestalt	 V: 	default	
+[00:00:14]: 		K: 	mutated_deerclops	 V: 	default	
+[00:00:14]: 		K: 	mutated_hounds	 V: 	default	
+[00:00:14]: 		K: 	mutated_merm	 V: 	default	
+[00:00:14]: 		K: 	mutated_spiderqueen	 V: 	default	
+[00:00:14]: 		K: 	mutated_warg	 V: 	default	
+[00:00:14]: 		K: 	no_joining_islands	 V: 	true	
+[00:00:14]: 		K: 	no_wormholes_to_disconnected_tiles	 V: 	true	
+[00:00:14]: 		K: 	ocean_bullkelp	 V: 	default	
+[00:00:14]: 		K: 	ocean_otterdens	 V: 	default	
+[00:00:14]: 		K: 	ocean_seastack	 V: 	ocean_default	
+[00:00:14]: 		K: 	ocean_shoal	 V: 	default	
+[00:00:14]: 		K: 	ocean_waterplant	 V: 	ocean_default	
+[00:00:14]: 		K: 	ocean_wobsterden	 V: 	default	
+[00:00:14]: 		K: 	otters_setting	 V: 	default	
+[00:00:14]: 		K: 	palmcone_seed_portalrate	 V: 	default	
+[00:00:14]: 		K: 	palmconetree	 V: 	default	
+[00:00:14]: 		K: 	palmconetree_regrowth	 V: 	default	
+[00:00:14]: 		K: 	penguins	 V: 	default	
+[00:00:14]: 		K: 	penguins_moon	 V: 	default	
+[00:00:14]: 		K: 	perd	 V: 	default	
+[00:00:14]: 		K: 	petrification	 V: 	default	
+[00:00:14]: 		K: 	pigs	 V: 	default	
+[00:00:14]: 		K: 	pigs_setting	 V: 	default	
+[00:00:14]: 		K: 	pirateraids	 V: 	default	
+[00:00:14]: 		K: 	ponds	 V: 	default	
+[00:00:14]: 		K: 	portal_spawnrate	 V: 	default	
+[00:00:14]: 		K: 	portalresurection	 V: 	none	
+[00:00:14]: 		K: 	powder_monkey_portalrate	 V: 	default	
+[00:00:14]: 		K: 	prefabswaps_start	 V: 	default	
+[00:00:14]: 		K: 	rabbits	 V: 	default	
+[00:00:14]: 		K: 	rabbits_setting	 V: 	default	
+[00:00:14]: 		K: 	reeds	 V: 	default	
+[00:00:14]: 		K: 	reeds_regrowth	 V: 	default	
+[00:00:14]: 		K: 	regrowth	 V: 	default	
+[00:00:14]: 		K: 	resettime	 V: 	default	
+[00:00:14]: 		K: 	rifts_enabled	 V: 	default	
+[00:00:14]: 		K: 	rifts_frequency	 V: 	default	
+[00:00:14]: 		K: 	roads	 V: 	default	
+[00:00:14]: 		K: 	rock	 V: 	default	
+[00:00:14]: 		K: 	rock_ice	 V: 	default	
+[00:00:14]: 		K: 	saltstack_regrowth	 V: 	default	
+[00:00:14]: 		K: 	sapling	 V: 	default	
+[00:00:14]: 		K: 	season_start	 V: 	default	
+[00:00:14]: 		K: 	seasonalstartingitems	 V: 	default	
+[00:00:14]: 		K: 	shadowcreatures	 V: 	default	
+[00:00:14]: 		K: 	sharkboi	 V: 	default	
+[00:00:14]: 		K: 	sharks	 V: 	default	
+[00:00:14]: 		K: 	spawnmode	 V: 	fixed	
+[00:00:14]: 		K: 	spawnprotection	 V: 	default	
+[00:00:14]: 		K: 	specialevent	 V: 	default	
+[00:00:14]: 		K: 	spider_warriors	 V: 	default	
+[00:00:14]: 		K: 	spiderqueen	 V: 	default	
+[00:00:14]: 		K: 	spiders	 V: 	default	
+[00:00:14]: 		K: 	spiders_setting	 V: 	default	
+[00:00:14]: 		K: 	spring	 V: 	default	
+[00:00:14]: 		K: 	squid	 V: 	default	
+[00:00:14]: 		K: 	stageplays	 V: 	default	
+[00:00:14]: 		K: 	start_location	 V: 	default	
+[00:00:14]: 		K: 	summer	 V: 	default	
+[00:00:14]: 		K: 	summerhounds	 V: 	default	
+[00:00:14]: 		K: 	tallbirds	 V: 	default	
+[00:00:14]: 		K: 	task_set	 V: 	default	
+[00:00:14]: 		K: 	temperaturedamage	 V: 	default	
+[00:00:14]: 		K: 	tentacles	 V: 	default	
+[00:00:14]: 		K: 	terrariumchest	 V: 	default	
+[00:00:14]: 		K: 	touchstone	 V: 	default	
+[00:00:14]: 		K: 	trees	 V: 	default	
+[00:00:14]: 		K: 	tumbleweed	 V: 	default	
+[00:00:14]: 		K: 	twiggytrees_regrowth	 V: 	default	
+[00:00:14]: 		K: 	walrus	 V: 	default	
+[00:00:14]: 		K: 	walrus_setting	 V: 	default	
+[00:00:14]: 		K: 	wanderingtrader_enabled	 V: 	always	
+[00:00:14]: 		K: 	wasps	 V: 	default	
+[00:00:14]: 		K: 	weather	 V: 	default	
+[00:00:14]: 		K: 	wildfires	 V: 	default	
+[00:00:14]: 		K: 	winter	 V: 	default	
+[00:00:14]: 		K: 	winterhounds	 V: 	default	
+[00:00:14]: 		K: 	winters_feast	 V: 	default	
+[00:00:14]: 		K: 	wobsters	 V: 	default	
+[00:00:14]: 		K: 	world_size	 V: 	default	
+[00:00:14]: 		K: 	wormhole_prefab	 V: 	wormhole	
+[00:00:14]: 		K: 	year_of_the_beefalo	 V: 	default	
+[00:00:14]: 		K: 	year_of_the_bunnyman	 V: 	default	
+[00:00:14]: 		K: 	year_of_the_carrat	 V: 	default	
+[00:00:14]: 		K: 	year_of_the_catcoon	 V: 	default	
+[00:00:14]: 		K: 	year_of_the_dragonfly	 V: 	default	
+[00:00:14]: 		K: 	year_of_the_gobbler	 V: 	default	
+[00:00:14]: 		K: 	year_of_the_knight	 V: 	default	
+[00:00:14]: 		K: 	year_of_the_pig	 V: 	default	
+[00:00:14]: 		K: 	year_of_the_snake	 V: 	default	
+[00:00:14]: 		K: 	year_of_the_varg	 V: 	default	
+[00:00:14]: 	K: 	playstyle	 V: 	survival	
+[00:00:14]: 	K: 	random_set_pieces	 V: 	table: 0000000010A34CA0	
+[00:00:14]: 		K: 	1	 V: 	Sculptures_2	
+[00:00:14]: 		K: 	2	 V: 	Sculptures_3	
+[00:00:14]: 		K: 	3	 V: 	Sculptures_4	
+[00:00:14]: 		K: 	4	 V: 	Sculptures_5	
+[00:00:14]: 		K: 	5	 V: 	Chessy_1	
+[00:00:14]: 		K: 	6	 V: 	Chessy_2	
+[00:00:14]: 		K: 	7	 V: 	Chessy_3	
+[00:00:14]: 		K: 	8	 V: 	Chessy_4	
+[00:00:14]: 		K: 	9	 V: 	Chessy_5	
+[00:00:14]: 		K: 	10	 V: 	Chessy_6	
+[00:00:14]: 		K: 	11	 V: 	Maxwell1	
+[00:00:14]: 		K: 	12	 V: 	Maxwell2	
+[00:00:14]: 		K: 	13	 V: 	Maxwell3	
+[00:00:14]: 		K: 	14	 V: 	Maxwell4	
+[00:00:14]: 		K: 	15	 V: 	Maxwell6	
+[00:00:14]: 		K: 	16	 V: 	Maxwell7	
+[00:00:14]: 		K: 	17	 V: 	Warzone_1	
+[00:00:14]: 		K: 	18	 V: 	Warzone_2	
+[00:00:14]: 		K: 	19	 V: 	Warzone_3	
+[00:00:14]: 	K: 	required_prefabs	 V: 	table: 0000000010A34CF0	
+[00:00:14]: 		K: 	1	 V: 	multiplayer_portal	
+[00:00:14]: 	K: 	required_setpieces	 V: 	table: 0000000010A34D90	
+[00:00:14]: 		K: 	1	 V: 	Sculptures_1	
+[00:00:14]: 		K: 	2	 V: 	Maxwell5	
+[00:00:14]: 	K: 	settings_desc	 V: 	The standard Don't Starve experience.	
+[00:00:14]: 	K: 	settings_id	 V: 	SURVIVAL_TOGETHER	
+[00:00:14]: 	K: 	settings_name	 V: 	Survival	
+[00:00:14]: 	K: 	substitutes	 V: 	table: 0000000010A363C0	
+[00:00:14]: 	K: 	version	 V: 	4	
+[00:00:14]: 	K: 	worldgen_desc	 V: 	The standard Don't Starve experience.	
+[00:00:14]: 	K: 	worldgen_id	 V: 	SURVIVAL_TOGETHER	
+[00:00:14]: 	K: 	worldgen_name	 V: 	Survival	
+[00:00:14]: Loaded and applied level data override from ../leveldataoverride.lua	
+[00:00:14]: Overwriting savedata with level data file.	
+[00:00:14]: Not applying world gen overrides.	
+[00:00:14]: Collecting garbage...
+[00:00:14]: lua_gc took 0.12 seconds
+[00:00:14]: ~ShardLuaProxy()
+[00:00:14]: ~cEventLeaderboardProxy()
+[00:00:14]: ~ItemServerLuaProxy()
+[00:00:14]: ~InventoryLuaProxy()
+[00:00:14]: ~NetworkLuaProxy()
+[00:00:14]: ~SimLuaProxy()
+[00:00:14]: lua_close took 0.12 seconds
+[00:00:14]: ReleaseAll
+[00:00:14]: ReleaseAll Finished
+[00:00:14]: cGame::StartPlaying
+[00:00:14]: AppVersion::GetArchitecture() x64
+[00:00:14]: LOADING LUA
+[00:00:14]: DoLuaFile scripts/main.lua
+[00:00:14]: DoLuaFile loading buffer scripts/main.lua
+[00:00:15]:   taskgrouplist:	default	Together	
+[00:00:15]:   taskgrouplist:	classic	Classic	
+[00:00:15]:   taskgrouplist:	cave_default	Underground	
+[00:00:15]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:15]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:15]: Running main.lua
+	
+[00:00:15]: loaded modindex	
+[00:00:15]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:15]: SUCCESS: Loaded modoverrides.lua	
+[00:00:15]: modoverrides.lua enabling workshop-2659976744	
+[00:00:15]: modoverrides.lua enabling workshop-378160973	
+[00:00:15]: modoverrides.lua enabling workshop-2823530744	
+[00:00:15]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2659976744	
+[00:00:15]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:15]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2823530744	
+[00:00:15]: Could not load mod_config_data/modconfiguration_workshop-2659976744	
+[00:00:15]: Loading mod: workshop-2659976744 (Indestructible Eye Mask) Version:2.0	
+[00:00:15]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:15]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.6	
+[00:00:15]: Could not load mod_config_data/modconfiguration_workshop-2823530744	
+[00:00:15]: Loading mod: workshop-2823530744 (Extra Equip Slots Plus +) Version:1.0.7	
+[00:00:15]: applying configuration_options from modoverrides.lua to mod workshop-2659976744	
+[00:00:15]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:15]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:15]: Overriding mod workshop-378160973's option SHOWFIREICONS with value false	
+[00:00:15]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value false	
+[00:00:15]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:15]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:15]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:15]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:15]: applying configuration_options from modoverrides.lua to mod workshop-2823530744	
+[00:00:15]: Overriding mod workshop-2823530744's option compass_slot with value false	
+[00:00:15]: Overriding mod workshop-2823530744's option slots_bg_length_adapter_no_bg with value false	
+[00:00:15]: Overriding mod workshop-2823530744's option slots_bg_length_adapter with value 0	
+[00:00:15]: Overriding mod workshop-2823530744's option amulet_slot with value true	
+[00:00:15]: Overriding mod workshop-2823530744's option chesspiece_fix with value true	
+[00:00:15]: Overriding mod workshop-2823530744's option slots_num with value 0	
+[00:00:15]: Overriding mod workshop-2823530744's option backpack_slot with value true	
+[00:00:15]: Overriding mod workshop-2823530744's option drop_hand_item_when_heavy with value true	
+[00:00:15]: Overriding mod workshop-2823530744's option show_compass with value true	
+[00:00:15]: Registering Mods:
+[00:00:15]:    Registering Mod workshop-2659976744
+[00:00:15]:    Registering Mod workshop-378160973
+[00:00:15]:    Registering Mod workshop-2823530744
+[00:00:15]: Mods registered.
+[00:00:15]: Mod: workshop-2659976744 (Indestructible Eye Mask)	Loading modworldgenmain.lua	
+[00:00:15]: Mod: workshop-2659976744 (Indestructible Eye Mask)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:15]: Mod: workshop-2659976744 (Indestructible Eye Mask)	Loading modmain.lua	
+[00:00:15]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:15]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:15]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:15]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2659976744	
+[00:00:15]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:15]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2823530744	
+[00:00:15]: Mod: workshop-2823530744 (Extra Equip Slots Plus +)	Loading modworldgenmain.lua	
+[00:00:15]: Mod: workshop-2823530744 (Extra Equip Slots Plus +)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:15]: Mod: workshop-2823530744 (Extra Equip Slots Plus +)	Loading modmain.lua	
+[00:00:36]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:36]: LOADING LUA SUCCESS
+[00:00:36]: Registering Server mod namespace "workshop-378160973"
+[00:00:36]: PlayerDeaths could not load morgue	
+[00:00:36]: PlayerHistory could not load player_history	
+[00:00:36]: ServerPreferences could not load server_preferences	
+[00:00:36]: ConsoleScreenSettings could not load consolescreen	
+[00:00:36]: bloom_enabled	true	
+[00:00:36]: OnFilesLoaded()	
+[00:00:36]: OnUpdatePurchaseStateComplete	
+[00:00:36]: Loading world: session/157B6A16EC9FB29F/0000000158	
+[00:00:36]: Save file is at version 5.22	
+[00:00:36]: Klump load on boot started.	
+[00:00:36]: Klump files loaded: 	0	
+[00:00:36]: 	Unload FE	
+[00:00:36]: 	Unload FE done	
+[00:01:48]: Mod: workshop-2659976744 (Indestructible Eye Mask)	Registering prefabs	
+[00:01:48]: Mod: workshop-2659976744 (Indestructible Eye Mask)	  Registering default mod prefab	
+[00:01:48]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:01:48]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:01:48]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:01:48]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:01:48]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:01:48]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:01:48]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:01:48]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:01:48]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:01:48]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:01:48]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:01:48]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:01:48]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:01:48]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:01:48]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:01:48]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:01:48]: Mod: workshop-2823530744 (Extra Equip Slots Plus +)	Registering prefabs	
+[00:01:48]: Mod: workshop-2823530744 (Extra Equip Slots Plus +)	  Registering default mod prefab	
+[00:01:48]: 	LOAD BE	
+[00:02:30]: 	LOAD BE: done	
+[00:02:31]: Begin Session: 157B6A16EC9FB29F
+[00:02:31]: saving to server_temp/server_save	
+[00:02:31]: OVERRIDE: setting	healthpenalty	to	always	
+[00:02:31]: OVERRIDE: setting	wanderingtrader_enabled	to	always	
+[00:02:31]: OVERRIDE: setting	lessdamagetaken	to	none	
+[00:02:31]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
+[00:02:31]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
+[00:02:31]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:02:31]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:02:31]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:02:31]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:02:31]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:02:31]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:02:31]: Loading 19 new character(s)	
+[00:02:36]: Total 19 character(s) loaded	
+[00:02:37]: Loading Nav Grid	
+[00:02:37]: World generated on build 728321 with save version: 5.22, using seed: 1975377819	
+[00:02:37]: setting 	summerlength	15	
+[00:02:37]: setting 	cavemoonphase	quarter	
+[00:02:37]: setting 	iscavefullmoon	false	
+[00:02:37]: setting 	isnightmaredawn	false	
+[00:02:37]: setting 	elapseddaysinseason	1	
+[00:02:37]: setting 	isfullmoon	false	
+[00:02:37]: setting 	moisture	3760.5090332031	
+[00:02:37]: setting 	springlength	20	
+[00:02:37]: setting 	islunarhailing	false	
+[00:02:37]: setting 	isnightmarewild	false	
+[00:02:37]: setting 	nightmaretimeinphase	0	
+[00:02:37]: setting 	precipitationrate	0.11077469587326	
+[00:02:37]: setting 	israining	true	
+[00:02:37]: setting 	iswet	false	
+[00:02:37]: setting 	isnewmoon	false	
+[00:02:37]: setting 	iscavewaxingmoon	true	
+[00:02:37]: setting 	iswinter	false	
+[00:02:37]: setting 	isnightmarewarn	false	
+[00:02:37]: setting 	cavephase	day	
+[00:02:37]: setting 	temperature	55.416917930646	
+[00:02:37]: setting 	isacidraining	false	
+[00:02:37]: setting 	lunarhailrate	0	
+[00:02:37]: setting 	season	autumn	
+[00:02:37]: setting 	wetness	4.7210187911987	
+[00:02:37]: setting 	timeinphase	0.90064149079499	
+[00:02:37]: setting 	iscaveday	true	
+[00:02:37]: setting 	moistureceil	4222.5688476563	
+[00:02:37]: setting 	isday	true	
+[00:02:37]: setting 	winterlength	15	
+[00:02:37]: setting 	remainingdaysinseason	19	
+[00:02:37]: setting 	issnowcovered	false	
+[00:02:37]: setting 	isalterawake	false	
+[00:02:37]: setting 	isnightmarecalm	false	
+[00:02:37]: setting 	isnight	false	
+[00:02:37]: setting 	isdusk	false	
+[00:02:37]: setting 	isspring	false	
+[00:02:37]: setting 	isautumn	true	
+[00:02:37]: setting 	issnowing	false	
+[00:02:37]: setting 	lunarhaillevel	0	
+[00:02:37]: setting 	pop	1	
+[00:02:37]: setting 	snowlevel	0	
+[00:02:37]: setting 	iswaxingmoon	true	
+[00:02:37]: setting 	autumnlength	20	
+[00:02:37]: setting 	phase	day	
+[00:02:37]: setting 	nightmaretime	0	
+[00:02:37]: setting 	iscavedusk	false	
+[00:02:37]: setting 	cycles	141	
+[00:02:37]: setting 	nightmarephase	none	
+[00:02:37]: setting 	seasonprogress	0.05	
+[00:02:37]: setting 	moonphase	quarter	
+[00:02:37]: setting 	iscavenight	false	
+[00:02:37]: setting 	iscavenewmoon	false	
+[00:02:37]: setting 	issummer	false	
+[00:02:37]: setting 	precipitation	rain	
+[00:02:37]: setting 	time	0.50661083857218	
+[00:02:37]: OVERRIDE: setting	ghostenabled	to	always	
+[00:02:37]: OVERRIDE: setting	basicresource_regrowth	to	none	
+[00:02:37]: OVERRIDE: setting	portalresurection	to	none	
+[00:02:37]: OVERRIDE: setting	spawnmode	to	fixed	
+[00:02:37]: OVERRIDE: setting	ghostsanitydrain	to	always	
+[00:02:41]: Could not find anim build FROMNUM
+[00:02:41]: Could not find anim build FROMNUM
+[00:02:41]: Could not find anim build FROMNUM
+[00:02:41]: Could not find anim build FROMNUM
+[00:02:41]: Could not find anim build FROMNUM
+[00:02:45]: Reconstructing topology	
+[00:02:45]: 	...Sorting points	
+[00:02:45]: 	...Sorting edges	
+[00:02:45]: 	...Connecting nodes	
+[00:02:45]: 	...Validating connections	
+[00:02:45]: 	...Housekeeping	
+[00:02:45]: 	...Done!	
+[00:02:45]: You must first AddTimer before you can start a timer	bearger_timetospawn	
+[00:02:45]: You must first AddTimer before you can start a timer	bearger_timetospawn	
+[00:02:45]: 1 uploads added to server. From server_temp
+[00:02:45]: About to start a shard with these settings:
+[00:02:45]:   ShardName: Master
+[00:02:45]:   ShardID: 1
+[00:02:45]:   ShardRole: MASTER
+[00:02:45]:   MasterHost: (null)
+[00:02:45]:   MasterBind: 127.0.0.1
+[00:02:45]:   MasterPort: 10888
+[00:02:45]: [Shard] Starting master server
+[00:02:45]: [Warning] Could not confirm port 10888 is open in the firewall. 
+[00:02:45]: [Shard] Shard server started on port: 10888
+[00:02:45]: [IPC] Signal 'DST_Master_Ready' opened  #0000000000000BA0
+[00:02:45]: [IPC] Sending signal... #0000000000000BA0
+[00:02:45]: Telling Client our new session identifier: 157B6A16EC9FB29F
+[00:02:45]: Check for write access: TRUE
+[00:02:45]: Check for read access: TRUE
+[00:02:45]: Available disk space for save files: 46030 MB
+[00:02:45]: ModIndex: Load sequence finished successfully.	
+[00:02:45]: Reset() returning
+[00:02:46]: Validating portal[8] <-> 2331832909[8] (inactive)	
+[00:02:46]: Validating portal[oceanwhirlbigportal] <-> 2331832909[oceanwhirlbigportal] (inactive)	
+[00:02:46]: Validating portal[9] <-> 2331832909[9] (inactive)	
+[00:02:46]: Validating portal[5] <-> 2331832909[5] (inactive)	
+[00:02:46]: Validating portal[7] <-> 2331832909[7] (inactive)	
+[00:02:46]: Validating portal[10] <-> 2331832909[10] (inactive)	
+[00:02:46]: Validating portal[6] <-> 2331832909[6] (inactive)	
+[00:02:46]: Validating portal[1] <-> 2331832909[1] (inactive)	
+[00:02:46]: Validating portal[2] <-> 2331832909[2] (inactive)	
+[00:02:46]: Validating portal[4] <-> 2331832909[4] (inactive)	
+[00:02:46]: Validating portal[3] <-> 2331832909[3] (inactive)	
+[00:02:46]: Server registered via geo DNS in ap-east-1
+[00:02:46]: Sim paused
+[00:02:50]: [Shard] Secondary shard Caves(2331832909) connected: [LAN] 127.0.0.1
+[00:02:50]: [Shard] Secondary Caves(2331832909) ready!
+[00:02:50]: World 2331832909(Caves) is now connected	
+[00:02:50]: [SyncWorldSettings] Sending master world option ghostsanitydrain = always to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Sending master world option resettime = default to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Sending master world option portalresurection = none to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Sending master world option basicresource_regrowth = none to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Sending master world option krampus = default to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
+[00:02:50]: Validating portal[8] <-> 2331832909[8] (active)	
+[00:02:50]: Validating portal[oceanwhirlbigportal] <-> 2331832909[oceanwhirlbigportal] (active)	
+[00:02:50]: Validating portal[9] <-> 2331832909[9] (active)	
+[00:02:50]: Validating portal[5] <-> 2331832909[5] (disabled)	
+[00:02:50]: Validating portal[7] <-> 2331832909[7] (active)	
+[00:02:50]: Validating portal[10] <-> 2331832909[10] (disabled)	
+[00:02:50]: Validating portal[6] <-> 2331832909[6] (active)	
+[00:02:50]: Validating portal[1] <-> 2331832909[1] (active)	
+[00:02:50]: Validating portal[2] <-> 2331832909[2] (active)	
+[00:02:50]: Validating portal[4] <-> 2331832909[4] (active)	
+[00:02:50]: Validating portal[3] <-> 2331832909[3] (active)	
+[00:02:50]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = always to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Resyncing master world option darkness = default to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Resyncing master world option resettime = default to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Resyncing master world option hunger = default to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Resyncing master world option healthpenalty = always to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Resyncing master world option temperaturedamage = default to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Resyncing master world option spawnmode = fixed to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Resyncing master world option shadowcreatures = default to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Resyncing master world option ghostenabled = always to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Resyncing master world option brightmarecreatures = default to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Resyncing master world option lessdamagetaken = none to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Resyncing master world option portalresurection = none to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Resyncing master world option basicresource_regrowth = none to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Resyncing master world option krampus = default to secondary shards.	
+[00:02:50]: [SyncWorldSettings] Resyncing master world option dropeverythingondespawn = default to secondary shards.	
+[00:02:52]: New incoming connection 127.0.0.1|49406 <7217019208335108234>
+[00:02:52]: Client connected from [LAN] 127.0.0.1|49406 <7217019208335108234>
+[00:02:52]: ValidateGameSessionToken GUID<7217019208335108234>
+[00:02:53]: Client authenticated: (KU_NFyY3m5b) Don't Starve
+[00:02:53]: [Steam] Authenticated host '76561198081221697'
+[00:02:53]: CURL ERROR: (items.kleientertainment.com) [6]Could not resolve host: items.kleientertainment.com
+[00:02:53]: [Warning] The connection to the inventory server has failed.
+[00:02:53]: Inventory validation failed for (KU_NFyY3m5b)
+[00:02:53]: There is no active event to validate against.
+[00:02:53]: [Shard] Read save location file for (KU_NFyY3m5b)
+[00:04:27]: Resuming user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000158
+[00:04:27]: User ID	KU_NFyY3m5b	assigned ownership to entity	122846 - wx78	
+[00:04:27]: Spawning player at: [Load] (132.07, 0.00, -230.64)	
+[00:04:27]: Sim unpaused
+[00:04:30]: [P2P] Session request for '76561198424009556'
+[00:04:33]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[00:04:33]: [P2P] Create session: 75.109.198.212|1 '76561198424009556'
+[00:04:33]: [P2P] Received from 75.109.198.212|1 '76561198424009556'
+[00:04:33]: [P2P] Sent to 75.109.198.212|1 '76561198424009556'
+[00:04:34]: New incoming connection 75.109.198.212|1 <2921760716218745714>
+[00:04:34]: Client connected from 75.109.198.212|1 <2921760716218745714>
+[00:04:34]: ValidateGameSessionToken GUID<2921760716218745714>
+[00:04:35]: Client authenticated: (KU_pvwb-Z0g) Charlotle
+[00:04:35]: [Steam] SendUserConnectAndAuthenticate for '76561198424009556'
+[00:04:35]: [Steam] Authenticated client '76561198424009556'
+[00:04:35]: Server Paused	
+[00:04:37]: There is no active event to validate against.
+[00:04:37]: [Shard] Read save location file for (KU_pvwb-Z0g)
+[00:04:59]: Resuming user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000158
+[00:04:59]: User ID	KU_pvwb-Z0g	assigned ownership to entity	123544 - wanda	
+[00:04:59]: Spawning player at: [Load] (133.71, 0.00, -238.50)	
+[00:05:21]: Server Unpaused	
+[00:09:10]: CURL ERROR: (lobby-v2.klei.com) [6]Could not resolve host: lobby-v2.klei.com
+[00:09:10]: [Http] Curl failed[0] with HTTP_0, retrying (2 times). Response: __
+[00:09:11]: Available disk space for save files: 46021 MB
+[00:09:11]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000159
+[00:09:11]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000159
+[00:09:11]: Missing reference:	102912 - beef_bell	->	102914	102914 - beefalo	
+[00:09:11]: Serializing world: session/157B6A16EC9FB29F/0000000159
+[00:17:11]: Could not find anim [spawn] in bank [FROMNUM]
+[00:17:11]: CURL ERROR: (lobby-v2.klei.com) [6]Could not resolve host: lobby-v2.klei.com
+[00:17:11]: [Http] Curl failed[0] with HTTP_0, retrying (2 times). Response: __
+[00:17:11]: Available disk space for save files: 46017 MB
+[00:17:12]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000160
+[00:17:12]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000160
+[00:17:12]: Missing reference:	102912 - beef_bell	->	102914	102914 - beefalo	
+[00:17:12]: Serializing world: session/157B6A16EC9FB29F/0000000160
+[00:17:12]: Could not find anim [spawn] in bank [FROMNUM]
+[00:17:55]: MapDeliverable:	
+	Item: <122908 - wx78_drone_scout>
+	Status: "OUT FOR DELIVERY"
+	Sender: <122846 - wx78>
+	Destination: (236.50, 0.00, -725.90)	
+[00:17:58]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "OUT FOR DELIVERY"
+	Sender: <122846 - wx78>
+	Destination: (536.18, 0.00, -479.20)	
+[00:20:16]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "ARRIVED"
+	Destination: (536.18, 0.00, -479.20)	
+[00:20:56]: MapDeliverable:	
+	Item: <122908 - wx78_drone_scout>
+	Status: "ARRIVED"
+	Destination: (236.50, 0.00, -725.90)	
+[00:22:11]: CURL ERROR: (lobby-v2.klei.com) [6]Could not resolve host: lobby-v2.klei.com
+[00:22:11]: [Http] Curl failed[0] with HTTP_0, retrying (2 times). Response: __
+[00:25:12]: Available disk space for save files: 46012 MB
+[00:25:13]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000161
+[00:25:13]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000161
+[00:25:13]: Missing reference:	102912 - beef_bell	->	102914	102914 - beefalo	
+[00:25:13]: Serializing world: session/157B6A16EC9FB29F/0000000161
+[00:27:27]: A timer with the name 	steallootcooldown	 already exists on 	128509 - otter	!	
+[00:27:45]: A timer with the name 	steallootcooldown	 already exists on 	128509 - otter	!	
+[00:30:14]: [200] Account Communication Success (6)
+[00:30:14]: Received (KU_NFyY3m5b) from TokenPurpose
+[00:32:51]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[00:33:13]: Available disk space for save files: 46006 MB
+[00:33:14]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000162
+[00:33:14]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000162
+[00:33:14]: Missing reference:	102912 - beef_bell	->	102914	102914 - beefalo	
+[00:33:14]: Serializing world: session/157B6A16EC9FB29F/0000000162
+[00:34:34]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[00:36:48]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "OUT FOR DELIVERY"
+	Sender: <122846 - wx78>
+	Destination: (574.13, 0.00, 117.99)	
+[00:36:52]: MapDeliverable:	
+	Item: <122908 - wx78_drone_scout>
+	Status: "OUT FOR DELIVERY"
+	Sender: <122846 - wx78>
+	Destination: (20.29, 0.00, -754.58)	
+[00:37:18]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "STOPPED"	
+[00:37:18]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "OUT FOR DELIVERY"
+	Sender: <122846 - wx78>
+	Destination: (698.35, 0.00, -142.67)	
+[00:38:05]: MapDeliverable:	
+	Item: <122908 - wx78_drone_scout>
+	Status: "ARRIVED"
+	Destination: (20.29, 0.00, -754.58)	
+[00:38:57]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "ARRIVED"
+	Destination: (698.35, 0.00, -142.67)	
+[00:41:14]: Available disk space for save files: 44448 MB
+[00:41:15]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000163
+[00:41:15]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000163
+[00:41:15]: Missing reference:	102912 - beef_bell	->	102914	102914 - beefalo	
+[00:41:15]: Serializing world: session/157B6A16EC9FB29F/0000000163
+[00:42:34]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[00:46:13]: CURL ERROR: (lobby-v2.klei.com) [6]Could not resolve host: lobby-v2.klei.com
+[00:46:13]: [Http] Curl failed[0] with HTTP_0, retrying (2 times). Response: __
+[00:48:39]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[00:49:15]: Available disk space for save files: 44445 MB
+[00:49:16]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000164
+[00:49:16]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000164
+[00:49:16]: Missing reference:	102912 - beef_bell	->	102914	102914 - beefalo	
+[00:49:16]: Serializing world: session/157B6A16EC9FB29F/0000000164
+[00:56:33]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "OUT FOR DELIVERY"
+	Sender: <122846 - wx78>
+	Destination: (573.57, 0.00, 115.13)	
+[00:57:16]: Available disk space for save files: 44441 MB
+[00:57:17]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000165
+[00:57:17]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000165
+[00:57:17]: Missing reference:	102912 - beef_bell	->	102914	102914 - beefalo	
+[00:57:17]: Serializing world: session/157B6A16EC9FB29F/0000000165
+[00:58:10]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "ARRIVED"
+	Destination: (573.57, 0.00, 115.13)	
+[01:00:14]: CURL ERROR: (login.kleientertainment.com) [6]Could not resolve host: login.kleientertainment.com
+[01:00:14]: [0] Account Failed (6): ""
+[01:00:14]: [Warning] Empty error code received, dumping response:
+[01:00:14]: 
+[01:00:14]: [IPC] Signal 'DST_Master_ErrStartup' opened  #0000000000000B6C
+[01:00:14]: [IPC] Sending signal... #0000000000000B6C
+[01:00:14]: [Connect] PendingConnection::Reset(true)
+[01:05:17]: Available disk space for save files: 44450 MB
+[01:05:17]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000166
+[01:05:17]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000166
+[01:05:17]: Missing reference:	102912 - beef_bell	->	102914	102914 - beefalo	
+[01:05:18]: Serializing world: session/157B6A16EC9FB29F/0000000166
+[01:08:43]: [P2P] Session request for '76561198081585645'
+[01:08:46]: [P2P] Create session: 75.109.198.213|1 '76561198081585645'
+[01:08:46]: [P2P] Received from 75.109.198.213|1 '76561198081585645'
+[01:08:46]: [P2P] Sent to 75.109.198.213|1 '76561198081585645'
+[01:08:47]: New incoming connection 75.109.198.213|1 <14551764037854921478>
+[01:08:47]: Client connected from 75.109.198.213|1 <14551764037854921478>
+[01:08:47]: ValidateGameSessionToken GUID<14551764037854921478>
+[01:08:48]: Client authenticated: (KU_MAFS6mz6) Hate me first love me later
+[01:08:48]: [Steam] SendUserConnectAndAuthenticate for '76561198081585645'
+[01:08:48]: [Steam] Authenticated client '76561198081585645'
+[01:08:51]: There is no active event to validate against.
+[01:08:51]: [Shard] Read save location file for (KU_MAFS6mz6)
+[01:08:51]: [Shard] Forwarding player to Caves(2331832909)
+[01:08:51]: [Shard] Begin migration #1 for (KU_MAFS6mz6)
+[01:08:51]: [Shard] #1 Master(1) -> Caves(2331832909)
+[01:08:51]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:08:51]: [Steam] SendUserDisconnect for '76561198081585645'
+[01:08:51]: [Shard] (KU_MAFS6mz6) disconnected from Master(1)
+[01:08:51]: CURL ERROR: (lobby-v2.klei.com) [6]Could not resolve host: lobby-v2.klei.com
+[01:08:51]: [Http] Curl failed[0] with HTTP_0, retrying (2 times). Response: __
+[01:09:01]: [Shard] Completed migration #1 for player (KU_MAFS6mz6)
+[01:10:51]: [Shard] Begin migration #2 for (KU_MAFS6mz6)
+[01:10:51]: [Shard] #2 Caves(2331832909) -> Master(1)
+[01:10:51]: [Shard] #2 -> session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000167
+[01:10:51]: [Shard] Received migration #2 data for (KU_MAFS6mz6)
+[01:10:51]: [Shard] Writing save location file for (KU_MAFS6mz6)
+[01:10:51]: [Shard] (KU_MAFS6mz6) disconnected from Caves(2331832909)
+[01:10:57]: [P2P] Received from 75.109.198.213|1 '76561198081585645'
+[01:10:57]: [P2P] Sent to 75.109.198.213|1 '76561198081585645'
+[01:10:58]: New incoming connection 75.109.198.213|1 <15428598602354737549>
+[01:10:58]: Client connected from 75.109.198.213|1 <15428598602354737549>
+[01:10:58]: ValidateGameSessionToken GUID<15428598602354737549>
+[01:10:58]: Client authenticated: (KU_MAFS6mz6) Hate me first love me later
+[01:10:59]: [Steam] SendUserConnectAndAuthenticate for '76561198081585645'
+[01:10:59]: [Steam] Authenticated client '76561198081585645'
+[01:10:59]: [Shard] Completed incoming migration #2 for (KU_MAFS6mz6)
+[01:10:59]: [Shard] Completed migration #2 for player (KU_MAFS6mz6)
+[01:11:03]: CURL ERROR: (items.kleientertainment.com) [6]Could not resolve host: items.kleientertainment.com
+[01:11:12]: Resuming user: session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000167
+[01:11:12]: User ID	KU_MAFS6mz6	assigned ownership to entity	140156 - wendy	
+[01:11:12]: Migrating prefab wendy will spawn close to portal ID: 3	
+[01:11:12]: Spawning player at: [Load] (51.87, 0.00, -121.99)	
+[01:11:25]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[01:11:25]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[01:11:25]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[01:13:18]: Available disk space for save files: 44445 MB
+[01:13:18]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000167
+[01:13:18]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000167
+[01:13:18]: Serializing user: session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000167
+[01:13:18]: Missing reference:	102912 - beef_bell	->	102914	102914 - beefalo	
+[01:13:19]: Serializing world: session/157B6A16EC9FB29F/0000000167
+[01:14:25]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "OUT FOR DELIVERY"
+	Sender: <122846 - wx78>
+	Destination: (499.44, 0.00, 46.08)	
+[01:14:27]: MapDeliverable:	
+	Item: <122908 - wx78_drone_scout>
+	Status: "OUT FOR DELIVERY"
+	Sender: <122846 - wx78>
+	Destination: (453.22, 0.00, -632.26)	
+[01:14:33]: MapDeliverable:	
+	Item: <122908 - wx78_drone_scout>
+	Status: "STOPPED"	
+[01:14:33]: MapDeliverable:	
+	Item: <122908 - wx78_drone_scout>
+	Status: "OUT FOR DELIVERY"
+	Sender: <122846 - wx78>
+	Destination: (5.97, 0.00, -536.29)	
+[01:15:00]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "ARRIVED"
+	Destination: (499.44, 0.00, 46.08)	
+[01:15:46]: MapDeliverable:	
+	Item: <122908 - wx78_drone_scout>
+	Status: "ARRIVED"
+	Destination: (5.97, 0.00, -536.29)	
+[01:16:31]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[01:16:31]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[01:16:31]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[01:18:17]: CURL ERROR: (lobby-v2.klei.com) [6]Could not resolve host: lobby-v2.klei.com
+[01:18:17]: [Http] Curl failed[0] with HTTP_0, retrying (2 times). Response: __
+[01:21:19]: Available disk space for save files: 44441 MB
+[01:21:19]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000168
+[01:21:19]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000168
+[01:21:19]: Serializing user: session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000168
+[01:21:19]: Missing reference:	102912 - beef_bell	->	102914	102914 - beefalo	
+[01:21:20]: Serializing world: session/157B6A16EC9FB29F/0000000168
+[01:25:03]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[01:26:18]: CURL ERROR: (lobby-v2.klei.com) [6]Could not resolve host: lobby-v2.klei.com
+[01:26:18]: [Http] Curl failed[0] with HTTP_0, retrying (2 times). Response: __
+[01:27:08]: Activating portal[3] to 2331832909 by 123544 - wanda	
+[01:27:09]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000169
+[01:27:09]: [Shard] Migration request: (KU_pvwb-Z0g) to Caves(2331832909)
+[01:27:09]: [Shard] Begin migration #3 for (KU_pvwb-Z0g)
+[01:27:09]: [Shard] #3 Master(1) -> Caves(2331832909)
+[01:27:09]: [Shard] #3 <- session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000169
+[01:27:09]: [Shard] Writing save location file for (KU_pvwb-Z0g)
+[01:27:09]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:27:09]: [Steam] SendUserDisconnect for '76561198424009556'
+[01:27:09]: [Shard] (KU_pvwb-Z0g) disconnected from Master(1)
+[01:27:17]: [Shard] Completed migration #3 for player (KU_pvwb-Z0g)
+[01:29:20]: Available disk space for save files: 44436 MB
+[01:29:20]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000169
+[01:29:20]: Serializing user: session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000169
+[01:29:20]: Missing reference:	102912 - beef_bell	->	102914	102914 - beefalo	
+[01:29:21]: Serializing world: session/157B6A16EC9FB29F/0000000169
+[01:30:14]: [200] Account Communication Success (6)
+[01:30:14]: Received (KU_NFyY3m5b) from TokenPurpose
+[01:32:02]: [Shard] Begin migration #4 for (KU_pvwb-Z0g)
+[01:32:02]: [Shard] #4 Caves(2331832909) -> Master(1)
+[01:32:02]: [Shard] #4 -> session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000170
+[01:32:02]: [Shard] Received migration #4 data for (KU_pvwb-Z0g)
+[01:32:02]: [Shard] Writing save location file for (KU_pvwb-Z0g)
+[01:32:02]: [Shard] (KU_pvwb-Z0g) disconnected from Caves(2331832909)
+[01:32:08]: [P2P] Received from 75.109.198.212|1 '76561198424009556'
+[01:32:08]: [P2P] Sent to 75.109.198.212|1 '76561198424009556'
+[01:32:08]: New incoming connection 75.109.198.212|1 <4488767343726299376>
+[01:32:08]: Client connected from 75.109.198.212|1 <4488767343726299376>
+[01:32:08]: ValidateGameSessionToken GUID<4488767343726299376>
+[01:32:09]: Client authenticated: (KU_pvwb-Z0g) Charlotle
+[01:32:09]: [Steam] SendUserConnectAndAuthenticate for '76561198424009556'
+[01:32:10]: [Steam] Authenticated client '76561198424009556'
+[01:32:10]: [Shard] Completed incoming migration #4 for (KU_pvwb-Z0g)
+[01:32:10]: [Shard] Completed migration #4 for player (KU_pvwb-Z0g)
+[01:32:21]: Resuming user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000170
+[01:32:21]: User ID	KU_pvwb-Z0g	assigned ownership to entity	145649 - wanda	
+[01:32:21]: Migrating prefab wanda will spawn near (123.75, 0.00, -221.74)	
+[01:32:21]: Spawning player at: [Load] (121.75, 0.00, -221.83)	
+[01:34:19]: CURL ERROR: (lobby-v2.klei.com) [6]Could not resolve host: lobby-v2.klei.com
+[01:34:19]: [Http] Curl failed[0] with HTTP_0, retrying (2 times). Response: __
+[01:36:45]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[01:37:21]: Available disk space for save files: 44435 MB
+[01:37:21]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000170
+[01:37:21]: Serializing user: session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000170
+[01:37:21]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000170
+[01:37:21]: Missing reference:	102912 - beef_bell	->	102914	102914 - beefalo	
+[01:37:22]: Serializing world: session/157B6A16EC9FB29F/0000000170
+[01:38:28]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[01:45:22]: Available disk space for save files: 44429 MB
+[01:45:22]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000171
+[01:45:22]: Serializing user: session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000171
+[01:45:22]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000171
+[01:45:22]: Missing reference:	102912 - beef_bell	->	102914	102914 - beefalo	
+[01:45:23]: Serializing world: session/157B6A16EC9FB29F/0000000171
+[01:53:22]: Available disk space for save files: 44419 MB
+[01:53:23]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000172
+[01:53:23]: Serializing user: session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000172
+[01:53:23]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000172
+[01:53:23]: Missing reference:	110575 - beefaloherd	->	102914	102914 - beefalo	
+[01:53:23]: Serializing world: session/157B6A16EC9FB29F/0000000172
+[01:57:16]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[01:57:16]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[01:57:16]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[02:00:14]: [200] Account Communication Success (6)
+[02:00:14]: Received (KU_NFyY3m5b) from TokenPurpose
+[02:01:24]: Available disk space for save files: 44416 MB
+[02:01:24]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000173
+[02:01:24]: Serializing user: session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000173
+[02:01:24]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000173
+[02:01:24]: Missing reference:	110575 - beefaloherd	->	102914	102914 - beefalo	
+[02:01:25]: Serializing world: session/157B6A16EC9FB29F/0000000173
+[02:02:10]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "OUT FOR DELIVERY"
+	Sender: <122846 - wx78>
+	Destination: (497.88, 0.00, 245.69)	
+[02:02:13]: MapDeliverable:	
+	Item: <122908 - wx78_drone_scout>
+	Status: "OUT FOR DELIVERY"
+	Sender: <122846 - wx78>
+	Destination: (453.02, 0.00, -622.03)	
+[02:03:17]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "ARRIVED"
+	Destination: (497.88, 0.00, 245.69)	
+[02:04:38]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "OUT FOR DELIVERY"
+	Sender: <122846 - wx78>
+	Destination: (557.33, 0.00, -127.62)	
+[02:04:46]: MapDeliverable:	
+	Item: <122908 - wx78_drone_scout>
+	Status: "ARRIVED"
+	Destination: (453.02, 0.00, -622.03)	
+[02:06:23]: CURL ERROR: (lobby-v2.klei.com) [6]Could not resolve host: lobby-v2.klei.com
+[02:06:23]: [Http] Curl failed[0] with HTTP_0, retrying (2 times). Response: __
+[02:06:45]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "ARRIVED"
+	Destination: (557.33, 0.00, -127.62)	
+[02:08:08]: MapDeliverable:	
+	Item: <122908 - wx78_drone_scout>
+	Status: "OUT FOR DELIVERY"
+	Sender: <122846 - wx78>
+	Destination: (288.86, 0.00, -713.50)	
+[02:08:12]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "OUT FOR DELIVERY"
+	Sender: <122846 - wx78>
+	Destination: (389.09, 0.00, 153.83)	
+[02:09:11]: MapDeliverable:	
+	Item: <122908 - wx78_drone_scout>
+	Status: "ARRIVED"
+	Destination: (288.86, 0.00, -713.50)	
+[02:09:25]: Available disk space for save files: 43378 MB
+[02:09:25]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000174
+[02:09:25]: Serializing user: session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000174
+[02:09:25]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000174
+[02:09:25]: Missing reference:	110575 - beefaloherd	->	102914	102914 - beefalo	
+[02:09:26]: Serializing world: session/157B6A16EC9FB29F/0000000174
+[02:10:04]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "ARRIVED"
+	Destination: (389.09, 0.00, 153.83)	
+[02:10:49]: [VFXParticleEmit] Cannot SetRenderResources with the texture "fx/frostbreath.tex" because it is invalid.
+[02:11:37]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "OUT FOR DELIVERY"
+	Sender: <122846 - wx78>
+	Destination: (459.48, 0.00, 146.18)	
+[02:11:44]: MapDeliverable:	
+	Item: <122908 - wx78_drone_scout>
+	Status: "OUT FOR DELIVERY"
+	Sender: <122846 - wx78>
+	Destination: (-107.69, 0.00, -508.24)	
+[02:12:02]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "ARRIVED"
+	Destination: (459.48, 0.00, 146.18)	
+[02:14:14]: MapDeliverable:	
+	Item: <122908 - wx78_drone_scout>
+	Status: "ARRIVED"
+	Destination: (-107.69, 0.00, -508.24)	
+[02:15:14]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "OUT FOR DELIVERY"
+	Sender: <122846 - wx78>
+	Destination: (122.37, 0.00, 839.96)	
+[02:15:16]: MapDeliverable:	
+	Item: <122908 - wx78_drone_scout>
+	Status: "OUT FOR DELIVERY"
+	Sender: <122846 - wx78>
+	Destination: (-252.39, 0.00, 746.27)	
+[02:15:28]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "STOPPED"	
+[02:15:28]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "OUT FOR DELIVERY"
+	Sender: <122846 - wx78>
+	Destination: (627.27, 0.00, 837.62)	
+[02:17:26]: Available disk space for save files: 43374 MB
+[02:17:26]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000175
+[02:17:26]: Serializing user: session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000175
+[02:17:26]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000175
+[02:17:26]: Missing reference:	110575 - beefaloherd	->	102914	102914 - beefalo	
+[02:17:27]: Serializing world: session/157B6A16EC9FB29F/0000000175
+[02:19:17]: MapDeliverable:	
+	Item: <122911 - wx78_drone_scout>
+	Status: "ARRIVED"
+	Destination: (627.27, 0.00, 837.62)	
+[02:20:21]: Could not find anim [death_wanda] in bank [ghost]
+[02:20:21]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000176
+[02:20:46]: Could not find anim [idle_loop] in bank [ghost]
+[02:20:49]: Could not find anim [transform] in bank [wilson]
+[02:20:50]: [VFXParticleEmit] Cannot SetRenderResources with the texture "fx/frostbreath.tex" because it is invalid.
+[02:20:50]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000176
+[02:21:42]: CURL ERROR: (items.kleientertainment.com) [6]Could not resolve host: items.kleientertainment.com
+[02:22:19]: MapDeliverable:	
+	Item: <122908 - wx78_drone_scout>
+	Status: "ARRIVED"
+	Destination: (-252.39, 0.00, 746.27)	
+[02:25:27]: Available disk space for save files: 43368 MB
+[02:25:27]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000176
+[02:25:27]: Serializing user: session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000176
+[02:25:27]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000176
+[02:25:27]: Missing reference:	110575 - beefaloherd	->	102914	102914 - beefalo	
+[02:25:27]: Serializing world: session/157B6A16EC9FB29F/0000000176
+[02:30:14]: [200] Account Communication Success (6)
+[02:30:14]: Received (KU_NFyY3m5b) from TokenPurpose
+[02:32:24]: Could not find anim [death_wanda] in bank [ghost]
+[02:32:24]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000177
+[02:32:57]: Could not find anim [idle_loop] in bank [ghost]
+[02:33:00]: Could not find anim [transform] in bank [wilson]
+[02:33:01]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000177
+[02:33:28]: Available disk space for save files: 43387 MB
+[02:33:28]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000177
+[02:33:28]: Serializing user: session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000177
+[02:33:28]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000177
+[02:33:28]: Missing reference:	110575 - beefaloherd	->	102914	102914 - beefalo	
+[02:33:28]: Serializing world: session/157B6A16EC9FB29F/0000000177
+[02:38:01]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[02:38:01]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[02:38:01]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[02:38:27]: CURL ERROR: (lobby-v2.klei.com) [6]Could not resolve host: lobby-v2.klei.com
+[02:38:27]: [Http] Curl failed[0] with HTTP_0, retrying (2 times). Response: __
+[02:41:29]: Available disk space for save files: 43383 MB
+[02:41:29]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000178
+[02:41:29]: Serializing user: session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000178
+[02:41:29]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000178
+[02:41:29]: Missing reference:	102912 - beef_bell	->	102914	102914 - beefalo	
+[02:41:29]: Serializing world: session/157B6A16EC9FB29F/0000000178
+[02:43:08]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[02:43:08]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[02:43:08]: CURL ERROR: (dst.metrics.klei.com) [6]Could not resolve host: dst.metrics.klei.com
+[02:44:16]: [Steam] SendUserDisconnect for '76561198081585645'
+[02:44:16]: Connection lost to 75.109.198.213|1 <15428598602354737549>
+[02:44:16]: [Shard] (KU_MAFS6mz6) disconnected from Master(1)
+[02:44:16]: Serializing user: session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000179
+[02:44:26]: [P2P] Connection failed for '76561198081585645' because of error code 4(The connection timed out because the target user didn't respond.).
+[02:46:08]: [Steam] SendUserDisconnect for '76561198081221697'
+[02:46:08]: [Shard] (KU_NFyY3m5b) disconnected from Master(1)
+[02:46:08]: [IPC] Received shutdown signal.
+[02:46:08]: Available disk space for save files: 43378 MB
+[02:46:08]: Serializing user: session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000179
+[02:46:08]: Serializing user: session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000179
+[02:46:08]: Missing reference:	102912 - beef_bell	->	102914	102914 - beefalo	
+[02:46:08]: Serializing world: session/157B6A16EC9FB29F/0000000179
+[02:46:08]: Truncating to snapshot #179...
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000153
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000154
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000155
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000156
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000157
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000158
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000159
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000160
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000161
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000162
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000163
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000164
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000165
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000166
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000167
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000168
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000169
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000170
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000171
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000172
+[02:46:08]:  - session/157B6A16EC9FB29F/0000000173
+[02:46:08]:  - session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000173
+[02:46:08]:  - session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000172
+[02:46:08]:  - session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000171
+[02:46:08]:  - session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000170
+[02:46:08]:  - session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000169
+[02:46:08]:  - session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000168
+[02:46:08]:  - session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000167
+[02:46:09]:  - session/157B6A16EC9FB29F/A7IOKFE1M3Q6/0000000140
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000173
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000172
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000171
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000170
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000169
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000168
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000167
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000166
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000165
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000164
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000163
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000162
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000161
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000160
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000159
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000158
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000157
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000156
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000154
+[02:46:09]:  - session/157B6A16EC9FB29F/A7ISVSH0U0B5/0000000146
+[02:46:09]:  - session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000173
+[02:46:09]:  - session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000172
+[02:46:09]:  - session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000171
+[02:46:09]:  - session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000170
+[02:46:09]:  - session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000169
+[02:46:09]:  - session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000168
+[02:46:09]:  - session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000167
+[02:46:09]:  - session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000166
+[02:46:09]:  - session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000165
+[02:46:09]:  - session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000164
+[02:46:09]:  - session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000163
+[02:46:09]:  - session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000162
+[02:46:09]:  - session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000161
+[02:46:09]:  - session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000160
+[02:46:09]:  - session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000159
+[02:46:09]:  - session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000158
+[02:46:09]:  - session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000157
+[02:46:09]:  - session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000156
+[02:46:09]:  - session/157B6A16EC9FB29F/A7MFJQIVKC1A/0000000141
+[02:46:09]:    68 file(s) removed
+[02:46:09]:  > session/157B6A16EC9FB29F/A7IOKFE1M3Q6/savelocation
+[02:46:09]:  > session/157B6A16EC9FB29F/A7ISVSH0U0B5/savelocation
+[02:46:09]:  > session/157B6A16EC9FB29F/A7MFJQIVKC1A/savelocation
+[02:46:09]:    3 file(s) updated
+[02:46:09]: Removing server from lobby
+[02:46:09]: [Shard] Stopping shard mode
+[02:46:09]: [Steam] SendUserDisconnect for ''
+[02:46:09]: [Steam] SendUserDisconnect for '76561198424009556'
+[02:46:09]: Collecting garbage...
+[02:46:10]: lua_gc took 0.50 seconds
+[02:46:10]: ~ShardLuaProxy()
+[02:46:10]: ~cEventLeaderboardProxy()
+[02:46:10]: ~ItemServerLuaProxy()
+[02:46:10]: ~InventoryLuaProxy()
+[02:46:10]: ~NetworkLuaProxy()
+[02:46:10]: ~SimLuaProxy()
+[02:46:10]: Cancelling LuaQueryCallback handle [235]
+[02:46:10]: Cancelling LuaQueryCallback handle [236]
+[02:46:11]: lua_close took 0.91 seconds
+[02:46:12]: CurlRequestManager::ClientThread::Main() complete
+[02:46:12]: HttpClient2 discarded 0 callbacks.
+[02:46:12]: Shutting down
