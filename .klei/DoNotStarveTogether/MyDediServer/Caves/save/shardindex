@@ -1,23 +1,5 @@
 KLEI     1 return {
   enabled_mods={
-    ["workshop-1750657150"]={
-      configuration_options={
-        amount_of_numbers="low",
-        display_mode="straight",
-        dmg_only="on",
-        number_duration="short",
-        number_size="atomic",
-        show_beaverness="off",
-        show_decimal_points="no",
-        show_fueled="off",
-        show_hunger="off",
-        show_moisture="off",
-        show_sanity="off",
-        show_work="off",
-        size_scale="default" 
-      },
-      enabled=true 
-    },
     ["workshop-2659976744"]={ configuration_options={  }, enabled=true },
     ["workshop-2823530744"]={
       configuration_options={

@@ -1,2 +1,29 @@
-[00:02:43]: [Join Announcement] Don't Starve
-[00:03:09]: [Leave Announcement] Don't Starve
+[00:02:52]: [Join Announcement] Don't Starve
+[00:03:36]: [Join Announcement] Charlotle
+[00:03:52]: [Say] (KU_pvwb-Z0g) Charlotle: rom mo
+[00:04:05]: [Join Announcement] Hate me first love me later
+[00:04:35]: [Say] (KU_NFyY3m5b) Don't Starve: oke chua :D
+[00:04:42]: [Say] (KU_MAFS6mz6) Hate me first love me later: go
+[00:04:45]: [Say] (KU_NFyY3m5b) Don't Starve: go
+[00:04:59]: [Say] (KU_pvwb-Z0g) Charlotle: bo do ra di
+[00:05:13]: [Say] (KU_MAFS6mz6) Hate me first love me later: chay toi cong bo luon
+[00:05:27]: [Say] (KU_NFyY3m5b) Don't Starve: hop ly vl :D
+[00:05:42]: [Say] (KU_pvwb-Z0g) Charlotle: nahc vl the
+[00:06:00]: [Say] (KU_pvwb-Z0g) Charlotle: off
+[00:06:06]: [Say] (KU_MAFS6mz6) Hate me first love me later: go
+[00:06:07]: [Say] (KU_NFyY3m5b) Don't Starve: rom bo chua?
+[00:06:09]: [Say] (KU_pvwb-Z0g) Charlotle: bo do ra
+[00:06:15]: [Say] (KU_MAFS6mz6) Hate me first love me later: de t chay toi con
+[00:06:17]: [Say] (KU_MAFS6mz6) Hate me first love me later: cong
+[00:06:19]: [Say] (KU_NFyY3m5b) Don't Starve: mie chua bo do` ra keu ok
+[00:06:21]: [Say] (KU_pvwb-Z0g) Charlotle: mia chay co ti cung nhac
+[00:06:22]: [Say] (KU_NFyY3m5b) Don't Starve: rua toi di
+[00:06:27]: [Say] (KU_NFyY3m5b) Don't Starve: ta ko can` chay. :D
+[00:07:43]: [Say] (KU_pvwb-Z0g) Charlotle: go
+[00:07:48]: [Say] (KU_NFyY3m5b) Don't Starve: vut het do` chua?
+[00:07:48]: [Say] (KU_MAFS6mz6) Hate me first love me later: tu tu]
+[00:07:53]: [Leave Announcement] Charlotle
+[00:07:54]: [Say] (KU_NFyY3m5b) Don't Starve: thoat nhe'
+[00:08:03]: [Say] (KU_NFyY3m5b) Don't Starve: rom vut xong thi thoat di
+[00:08:18]: [Leave Announcement] Hate me first love me later
+[00:08:23]: [Leave Announcement] Don't Starve
