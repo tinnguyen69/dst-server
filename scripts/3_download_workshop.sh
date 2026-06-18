@@ -1,6 +1,8 @@
 #!/bin/bash
 
 steamcmd_dir="$HOME/steamcmd"
+install_dir="$HOME/dontstarvetogether_dedicated_server"
+workshop_dir="$HOME/Steam/steamapps/workshop/content/322330"
 
 function fail()
 {
@@ -27,3 +29,10 @@ download_item+=(+workshop_download_item 322330 378160973 validate)
 download_item+=(+quit)
 
 "${download_item[@]}" || fail "Failed to download workshop items!"
+
+cp -r "$workshop_dir/2659976744" "$install_dir/mods/workshop-2659976744"
+cp -r "$workshop_dir/2823530744" "$install_dir/mods/workshop-2823530744"
+cp -r "$workshop_dir/378160973" "$install_dir/mods/workshop-378160973"
+
+# Start the server
+4_run_servers.sh

@@ -14,9 +14,3 @@ tar -xvzf steamcmd_linux.tar.gz
 
 # Download the dedicated server
 2_download_servers.sh
-
-# Download the workshop items
-3_download_workshop.sh
-
-# Start the server
-4_run_servers.sh
