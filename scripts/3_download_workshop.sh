@@ -37,4 +37,4 @@ cp -r "$workshop_dir/378160973" "$install_dir/mods/workshop-378160973"
 cp -r "$workshop_dir/1185229307" "$install_dir/mods/workshop-1185229307"
 
 # Start the server
-4_run_servers.sh
+bash 4_run_servers.sh
