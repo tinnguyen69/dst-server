@@ -33,4 +33,4 @@ check_for_file "steamcmd.sh"
 ./steamcmd.sh +force_install_dir "$install_dir" +login anonymous +app_update 343050 validate +quit
 
 # Download the workshop items
-bash 3_download_workshop.sh
+bash "$HOME/dst-server/scripts/3_download_workshop.sh"

@@ -14,4 +14,4 @@ wget "https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz"
 tar -xvzf steamcmd_linux.tar.gz
 
 # Download the dedicated server
-bash 2_download_servers.sh
+bash "$HOME/dst-server/scripts/2_download_servers.sh"
