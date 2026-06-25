@@ -1,0 +1,1 @@
+aws s3 sync ./.klei/ s3://dst-dedicated-server-969920712709-ap-southeast-1-an/
