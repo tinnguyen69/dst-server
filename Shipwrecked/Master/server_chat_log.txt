@@ -1,5 +1,4 @@
-[00:05:36]: [Join Announcement] Don't Starve
-[01:03:04]: [Skin Announcement] Don't Starve hand_woodie_yule
-[02:53:29]: [Death Announcement] Don't Starve was killed by Drowning. They became a spooky ghost!
-[03:46:25]: [Skin Announcement] Don't Starve body_buttons_blue_sky
-[04:25:52]: [Leave Announcement] Don't Starve
+[00:04:23]: [Join Announcement] Don't Starve
+[00:30:05]: [Skin Announcement] Don't Starve feet_formal_stilettop_black_scribble
+[00:35:04]: [Skin Announcement] Don't Starve legs_jeans_navy_ocean
+[00:50:13]: [Leave Announcement] Don't Starve
