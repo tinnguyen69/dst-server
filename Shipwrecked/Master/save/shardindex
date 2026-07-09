@@ -191,19 +191,31 @@ KLEI     1 return {
         windgustable="all" 
       },
       enabled=true 
+    },
+    ["workshop-378160973"]={
+      configuration_options={
+        ENABLEPINGS=true,
+        FIREOPTIONS=2,
+        OVERRIDEMODE=false,
+        SHAREMINIMAPPROGRESS=false,
+        SHOWFIREICONS=false,
+        SHOWPLAYERICONS=true,
+        SHOWPLAYERSOPTIONS=2 
+      },
+      enabled=true 
     } 
   },
   server={
     clan={ admin=false, id="", only=false },
-    description="",
+    description="Shipwrecked World",
     encode_user_path=true,
     game_mode="survival",
-    max_players=6,
-    name="ShipWW",
+    max_players=4,
+    name="Rom gey ShipWW",
     online_mode=true,
-    password="",
+    password="0",
     playstyle="survival",
-    privacy_type=1,
+    privacy_type=0,
     pvp=false,
     server_language="en" 
   },
@@ -321,7 +333,6 @@ KLEI     1 return {
         poisonhole="default",
         portalresurection="none",
         prefabswaps_start="default",
-        primaryworldtype="default",
         primeape="default",
         primeape_setting="default",
         rainbowjellyfish="default",

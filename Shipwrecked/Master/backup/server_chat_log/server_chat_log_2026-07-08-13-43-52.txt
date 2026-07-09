@@ -1,0 +1,58 @@
+[00:03:03]: [Join Announcement] Hate me first love me later
+[00:03:35]: [Join Announcement] Don't Starve
+[00:03:36]: [Say] (KU_MAFS6mz6) Hate me first love me later: Nhen dau tin
+[00:03:40]: [Say] (KU_MAFS6mz6) Hate me first love me later: farm nhen cho nay
+[00:04:49]: [Say] (KU_MAFS6mz6) Hate me first love me later: co day kho kiem nhi
+[00:05:14]: [Say] (KU_NFyY3m5b) Don't Starve: cheo thuyen len tren dao canh kia
+[00:05:19]: [Say] (KU_NFyY3m5b) Don't Starve: hinh ta gui
+[00:05:28]: [Say] (KU_NFyY3m5b) Don't Starve: lay thuyen kia di
+[00:05:30]: [Say] (KU_MAFS6mz6) Hate me first love me later: ok
+[00:05:32]: [Say] (KU_MAFS6mz6) Hate me first love me later: ngon
+[00:05:35]: [Say] (KU_NFyY3m5b) Don't Starve: thuyen cua ta de ta chay len lay' do` ve`
+[00:05:47]: [Say] (KU_NFyY3m5b) Don't Starve: thuyen co canh qua.t de lai cho ta xai`
+[00:05:56]: [Say] (KU_MAFS6mz6) Hate me first love me later: co co ko
+[00:05:59]: [Say] (KU_MAFS6mz6) Hate me first love me later: deo lam den dc
+[00:06:08]: [Say] (KU_NFyY3m5b) Don't Starve: co qua den` dau ma doi` lam
+[00:06:09]: [Say] (KU_NFyY3m5b) Don't Starve: mie
+[00:06:14]: [Say] (KU_NFyY3m5b) Don't Starve: ngao a
+[00:06:18]: [Say] (KU_MAFS6mz6) Hate me first love me later: co? a'
+[00:06:19]: [Say] (KU_MAFS6mz6) Hate me first love me later: co ko
+[00:06:22]: [Say] (KU_MAFS6mz6) Hate me first love me later: grass
+[00:06:27]: [Say] (KU_NFyY3m5b) Don't Starve: roi lam gi nua?
+[00:06:33]: [Say] (KU_NFyY3m5b) Don't Starve: lam duoc ay a`
+[00:06:34]: [Say] (KU_MAFS6mz6) Hate me first love me later: lam que
+[00:06:38]: [Say] (KU_NFyY3m5b) Don't Starve: qua do co mma :D
+[00:06:38]: [Say] (KU_MAFS6mz6) Hate me first love me later: lam que lua
+[00:07:01]: [Say] (KU_MAFS6mz6) Hate me first love me later: quaa kiem nhen
+[00:07:12]: [Say] (KU_NFyY3m5b) Don't Starve: thi` qua do' cung co Co
+[00:08:05]: [Say] (KU_MAFS6mz6) Hate me first love me later: dem to ong ve ko
+[00:08:10]: [Say] (KU_NFyY3m5b) Don't Starve: dem chu'
+[00:10:02]: [Say] (KU_MAFS6mz6) Hate me first love me later: ben nay dong vui ghe
+[00:10:05]: [Say] (KU_NFyY3m5b) Don't Starve: :D
+[00:10:15]: [Say] (KU_MAFS6mz6) Hate me first love me later: co khi co ong co nhen
+[00:10:35]: [Say] (KU_NFyY3m5b) Don't Starve: dem qua day trong` la co :D
+[00:11:34]: [Say] (KU_MAFS6mz6) Hate me first love me later: gi mua r
+[00:11:37]: [Say] (KU_NFyY3m5b) Don't Starve: um`
+[00:11:40]: [Say] (KU_NFyY3m5b) Don't Starve: chuan bi lut
+[00:11:53]: [Say] (KU_NFyY3m5b) Don't Starve: kiem dau het roi
+[00:13:28]: [Say] (KU_NFyY3m5b) Don't Starve: mie
+[00:13:31]: [Say] (KU_NFyY3m5b) Don't Starve: lut nhanh vl
+[00:13:51]: [Say] (KU_MAFS6mz6) Hate me first love me later: vler
+[00:13:55]: [Say] (KU_MAFS6mz6) Hate me first love me later: hu me roi
+[00:14:07]: [Say] (KU_NFyY3m5b) Don't Starve: co CO ko?
+[00:14:30]: [Say] (KU_MAFS6mz6) Hate me first love me later: dung gan cay do uot ne
+[00:14:41]: [Say] (KU_NFyY3m5b) Don't Starve: doi mu~ kia vo
+[00:14:51]: [Say] (KU_MAFS6mz6) Hate me first love me later: co mu nao bro
+[00:15:03]: [Say] (KU_NFyY3m5b) Don't Starve: lay long heo
+[00:15:07]: [Say] (KU_NFyY3m5b) Don't Starve: lam ccai du`
+[00:16:02]: [Say] (KU_NFyY3m5b) Don't Starve: lut nhanh vl
+[00:16:06]: [Say] (KU_MAFS6mz6) Hate me first love me later: nuoc len vler
+[00:16:30]: [Say] (KU_MAFS6mz6) Hate me first love me later: ko lam cai leu dc a bro
+[00:16:35]: [Say] (KU_NFyY3m5b) Don't Starve: day
+[00:17:10]: [Say] (KU_NFyY3m5b) Don't Starve: dung' vo
+[00:17:20]: [Say] (KU_NFyY3m5b) Don't Starve: co da' ko?
+[00:17:24]: [Say] (KU_MAFS6mz6) Hate me first love me later: ko bro
+[00:17:51]: [Say] (KU_MAFS6mz6) Hate me first love me later: xuong phe
+[00:17:59]: [Say] (KU_MAFS6mz6) Hate me first love me later: chay nha
+[00:18:06]: [Say] (KU_MAFS6mz6) Hate me first love me later: roll
+[00:18:14]: [Say] (KU_MAFS6mz6) Hate me first love me later: xet danh chay nha bro

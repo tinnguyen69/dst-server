@@ -190,5 +190,17 @@ return {
       windgustable="all" 
     },
     enabled=true 
+  },
+  ["workshop-378160973"]={
+    configuration_options={
+      ENABLEPINGS=true,
+      FIREOPTIONS=2,
+      OVERRIDEMODE=false,
+      SHAREMINIMAPPROGRESS=false,
+      SHOWFIREICONS=false,
+      SHOWPLAYERICONS=true,
+      SHOWPLAYERSOPTIONS=2 
+    },
+    enabled=true 
   } 
 }
