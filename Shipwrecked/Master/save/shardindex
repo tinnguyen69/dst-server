@@ -333,7 +333,6 @@ KLEI     1 return {
         poisonhole="default",
         portalresurection="none",
         prefabswaps_start="default",
-        primaryworldtype="default",
         primeape="default",
         primeape_setting="default",
         rainbowjellyfish="default",

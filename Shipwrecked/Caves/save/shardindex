@@ -277,7 +277,6 @@ KLEI     1 return {
         poi="never",
         portalresurection="none",
         prefabswaps_start="classic",
-        primaryworldtype="default",
         primeape_setting="default",
         regrowth="default",
         resettime="default",
