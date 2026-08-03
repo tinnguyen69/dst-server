@@ -1,0 +1,433 @@
+[00:03:02]: [Join Announcement] Charlotle
+[00:03:11]: [Join Announcement] Don't Starve
+[00:10:32]: [Say] (KU_pvwb-Z0g) Charlotle: ag chet
+[00:10:47]: [Say] (KU_NFyY3m5b) Don't Starve: kkk
+[00:10:54]: [Say] (KU_NFyY3m5b) Don't Starve: sao do?
+[00:11:06]: [Say] (KU_pvwb-Z0g) Charlotle: tin eo nho cay ben dao
+[00:11:10]: [Say] (KU_pvwb-Z0g) Charlotle: hoa moc gan cho nv
+[00:11:19]: [Say] (KU_pvwb-Z0g) Charlotle: geit 2 hao ui
+[00:11:27]: [Say] (KU_pvwb-Z0g) Charlotle: geit duoc 2 hao ui
+[00:11:38]: [Say] (KU_NFyY3m5b) Don't Starve: the a :D
+[00:11:49]: [Say] (KU_pvwb-Z0g) Charlotle: ban kei song nv nho di eo cghiu
+[00:11:53]: [Skin Announcement] Don't Starve hand_shortgloves_blue_cornflower
+[00:13:55]: [Say] (KU_pvwb-Z0g) Charlotle: ba cua cut ui
+[00:14:01]: [Say] (KU_NFyY3m5b) Don't Starve: ngon
+[00:14:12]: [Say] (KU_pvwb-Z0g) Charlotle: gan chet
+[00:16:59]: [Say] (KU_pvwb-Z0g) Charlotle: tin lam gi do
+[00:17:05]: [Say] (KU_NFyY3m5b) Don't Starve: nhiem vu chu gia
+[00:17:16]: [Say] (KU_pvwb-Z0g) Charlotle: boss dao mat tragn ak
+[00:17:19]: [Say] (KU_NFyY3m5b) Don't Starve: um
+[00:19:48]: [Say] (KU_pvwb-Z0g) Charlotle: het kenh kenh ui dung ko
+[00:22:01]: [Say] (KU_pvwb-Z0g) Charlotle: mia con bo
+[00:22:28]: [Say] (KU_NFyY3m5b) Don't Starve: huc Huong a
+[00:22:32]: [Say] (KU_pvwb-Z0g) Charlotle: pha may ban da
+[00:25:51]: [Say] (KU_pvwb-Z0g) Charlotle: co keo
+[00:26:42]: [Say] (KU_NFyY3m5b) Don't Starve: go chua?
+[00:26:59]: [Say] (KU_pvwb-Z0g) Charlotle: tin qua truoc nhe
+[00:27:13]: [Say] (KU_NFyY3m5b) Don't Starve: ok
+[00:27:13]: [Say] (KU_pvwb-Z0g) Charlotle: qua rap ne
+[00:27:24]: [Say] (KU_pvwb-Z0g) Charlotle: go
+[00:27:26]: [Say] (KU_pvwb-Z0g) Charlotle: rap ui ve
+[00:27:32]: [Say] (KU_pvwb-Z0g) Charlotle: can mau ui
+[00:28:53]: [Say] (KU_NFyY3m5b) Don't Starve: roi
+[00:28:55]: [Say] (KU_pvwb-Z0g) Charlotle: sac dien cho tele da
+[00:28:57]: [Say] (KU_pvwb-Z0g) Charlotle: ve
+[00:30:08]: [Say] (KU_pvwb-Z0g) Charlotle: bo con nhiu vl
+[00:30:12]: [Say] (KU_NFyY3m5b) Don't Starve: kk
+[00:30:27]: [Say] (KU_pvwb-Z0g) Charlotle: danh bo cai tut thua hoa
+[00:30:29]: [Say] (KU_pvwb-Z0g) Charlotle: kaka
+[00:31:03]: [Say] (KU_pvwb-Z0g) Charlotle: can chi nua ko tindw
+[00:31:14]: [Say] (KU_NFyY3m5b) Don't Starve: doi het mua
+[00:31:20]: [Say] (KU_pvwb-Z0g) Charlotle: ok
+[00:31:36]: [Say] (KU_NFyY3m5b) Don't Starve: du kiem chua?
+[00:32:04]: [Say] (KU_pvwb-Z0g) Charlotle: giet
+[00:32:08]: [Say] (KU_NFyY3m5b) Don't Starve: vl :D
+[00:33:27]: [Say] (KU_NFyY3m5b) Don't Starve: goq
+[00:33:47]: [Say] (KU_NFyY3m5b) Don't Starve: qua thoi
+[00:33:50]: [Say] (KU_pvwb-Z0g) Charlotle: ok
+[00:33:54]: [Say] (KU_NFyY3m5b) Don't Starve: bo con bo` cho ta hay vo hay
+[00:33:58]: [Say] (KU_NFyY3m5b) Don't Starve: co muoi liem'
+[00:34:09]: [Say] (KU_NFyY3m5b) Don't Starve: cho no do~ bi tut. diem nuoi
+[00:34:20]: [Say] (KU_pvwb-Z0g) Charlotle: ok
+[00:34:22]: [Say] (KU_pvwb-Z0g) Charlotle: go
+[00:34:25]: [Say] (KU_NFyY3m5b) Don't Starve: du giap chua?
+[00:34:44]: [Say] (KU_pvwb-Z0g) Charlotle: ta co do sau gap
+[00:34:46]: [Say] (KU_pvwb-Z0g) Charlotle: ko so
+[00:34:51]: [Say] (KU_pvwb-Z0g) Charlotle: ne con bo ra
+[00:35:36]: [Say] (KU_pvwb-Z0g) Charlotle: giet
+[00:35:42]: [Say] (KU_pvwb-Z0g) Charlotle: giet
+[00:38:13]: [Say] (KU_NFyY3m5b) Don't Starve: doan do no giam dmgh
+[00:38:16]: [Say] (KU_NFyY3m5b) Don't Starve: danh co 14 dmg
+[00:38:29]: [Say] (KU_pvwb-Z0g) Charlotle: kakas
+[00:38:48]: [Say] (KU_pvwb-Z0g) Charlotle: sao l;an 1 labn
+[00:38:53]: [Say] (KU_NFyY3m5b) Don't Starve: doan no lan trung minh thi no chi lan 1 ti'
+[00:39:41]: [Death Announcement] Charlotle was killed by Celestial Champion. She became a spooky ghost!
+[00:39:42]: [Say] (KU_pvwb-Z0g) Charlotle: det
+[00:39:45]: [Say] (KU_pvwb-Z0g) Charlotle: day mau
+[00:39:56]: [Resurrect Announcement] Charlotle was resurrected by Life Giving Amulet.
+[00:39:59]: [Say] (KU_NFyY3m5b) Don't Starve: day chuyena
+[00:41:21]: [Say] (KU_pvwb-Z0g) Charlotle: deta
+[00:42:50]: [Say] (KU_pvwb-Z0g) Charlotle: ua
+[00:43:22]: [Death Announcement] Charlotle was killed by Celestial Champion. She became a spooky ghost!
+[00:43:40]: [Resurrect Announcement] Charlotle was resurrected by Life Giving Amulet.
+[00:43:57]: [Say] (KU_pvwb-Z0g) Charlotle: xem chung chim kia
+[00:47:22]: [Say] (KU_NFyY3m5b) Don't Starve: sao do
+[00:47:27]: [Say] (KU_pvwb-Z0g) Charlotle: alg
+[00:47:30]: [Say] (KU_NFyY3m5b) Don't Starve: ra ko no ko het skill :D
+[00:47:32]: [Say] (KU_NFyY3m5b) Don't Starve: kkk
+[00:47:38]: [Death Announcement] Charlotle was killed by Celestial Champion. She became a spooky ghost!
+[00:47:42]: [Say] (KU_pvwb-Z0g) Charlotle: det l;an 3
+[00:47:57]: [Resurrect Announcement] Charlotle was resurrected by Life Giving Amulet.
+[00:48:09]: [Say] (KU_pvwb-Z0g) Charlotle: 3 vach ma
+[00:49:05]: [Say] (KU_pvwb-Z0g) Charlotle: nua
+[00:49:31]: [Say] (KU_pvwb-Z0g) Charlotle: mia
+[00:49:32]: [Say] (KU_NFyY3m5b) Don't Starve: :D
+[00:49:34]: [Say] (KU_pvwb-Z0g) Charlotle: do
+[00:49:34]: [Say] (KU_NFyY3m5b) Don't Starve: lag a
+[00:49:37]: [Say] (KU_pvwb-Z0g) Charlotle: 2 cu
+[00:49:41]: [Say] (KU_pvwb-Z0g) Charlotle: chet ui cung 2 hit
+[00:50:18]: [Say] (KU_pvwb-Z0g) Charlotle: nay thay con chim ko
+[00:50:26]: [Say] (KU_NFyY3m5b) Don't Starve: no sao
+[00:50:29]: [Say] (KU_pvwb-Z0g) Charlotle: dung gan no that 1 cu bom vao mat
+[00:50:32]: [Say] (KU_pvwb-Z0g) Charlotle: mia can le vl
+[00:50:40]: [Say] (KU_NFyY3m5b) Don't Starve: kkk
+[00:51:34]: [Say] (KU_pvwb-Z0g) Charlotle: da phe luon
+[00:51:53]: [Say] (KU_NFyY3m5b) Don't Starve: 1 manh ne`
+[00:52:06]: [Say] (KU_pvwb-Z0g) Charlotle: lam nang ruong di
+[00:52:15]: [Say] (KU_pvwb-Z0g) Charlotle: :D mah le lam gi nhi
+[00:52:23]: [Say] (KU_NFyY3m5b) Don't Starve: che giap :D
+[00:52:32]: [Say] (KU_pvwb-Z0g) Charlotle: cam di
+[00:53:50]: [Say] (KU_pvwb-Z0g) Charlotle: ve cai bong di xml
+[00:53:57]: [Say] (KU_NFyY3m5b) Don't Starve: kkk
+[00:53:58]: [Say] (KU_pvwb-Z0g) Charlotle: ve tinw
+[00:56:30]: [Say] (KU_pvwb-Z0g) Charlotle: nahc nuoi bo vl thui giet
+[00:56:40]: [Say] (KU_NFyY3m5b) Don't Starve: nuoi co ti bet
+[00:57:07]: [Say] (KU_pvwb-Z0g) Charlotle: do sat
+[00:57:14]: [Say] (KU_pvwb-Z0g) Charlotle: bua dau nuoi
+[00:57:59]: [Say] (KU_NFyY3m5b) Don't Starve: mie ranh
+[00:58:08]: [Say] (KU_pvwb-Z0g) Charlotle: lay con thuc di nao
+[00:59:50]: [Say] (KU_pvwb-Z0g) Charlotle: bo khap noi
+[00:59:55]: [Say] (KU_pvwb-Z0g) Charlotle: mia
+[01:00:07]: [Say] (KU_NFyY3m5b) Don't Starve: kkk
+[01:00:39]: [Say] (KU_pvwb-Z0g) Charlotle: tin kiem cong thuc do ak
+[01:04:54]: [Say] (KU_pvwb-Z0g) Charlotle: co cong thuc chua tin
+[01:05:03]: [Say] (KU_NFyY3m5b) Don't Starve: chua da xuong dau kkk
+[01:05:10]: [Say] (KU_pvwb-Z0g) Charlotle: xml ui be thuyen cua tin ui
+[01:05:18]: [Say] (KU_pvwb-Z0g) Charlotle: rol ao tin
+[01:05:21]: [Say] (KU_NFyY3m5b) Don't Starve: mie :v
+[01:05:23]: [Say] (KU_pvwb-Z0g) Charlotle: :d
+[01:05:23]: [Say] (KU_NFyY3m5b) Don't Starve: be thi thoi
+[01:05:26]: [Say] (KU_NFyY3m5b) Don't Starve: lam cai khac :V
+[01:05:27]: [Say] (KU_pvwb-Z0g) Charlotle: dong do
+[01:05:34]: [Say] (KU_NFyY3m5b) Don't Starve: roll `
+[01:07:02]: [Say] (KU_pvwb-Z0g) Charlotle: alm chi qurn miet
+[01:07:13]: [Say] (KU_NFyY3m5b) Don't Starve: qua do' lamm gi do
+[01:07:44]: [Say] (KU_pvwb-Z0g) Charlotle: chim ne
+[01:07:46]: [Say] (KU_pvwb-Z0g) Charlotle: can len
+[01:07:57]: [Say] (KU_NFyY3m5b) Don't Starve: um` mua ri la no xuong'
+[01:10:18]: [Say] (KU_NFyY3m5b) Don't Starve: doi ti
+[01:10:21]: [Say] (KU_NFyY3m5b) Don't Starve: xuong mo cua cho vo
+[01:10:21]: [Say] (KU_pvwb-Z0g) Charlotle: ok
+[01:12:54]: [Say] (KU_NFyY3m5b) Don't Starve: go
+[01:19:34]: [Say] (KU_pvwb-Z0g) Charlotle: soi di
+[01:20:18]: [Say] (KU_pvwb-Z0g) Charlotle: dm soi
+[01:20:22]: [Say] (KU_NFyY3m5b) Don't Starve: kkk
+[01:20:26]: [Say] (KU_NFyY3m5b) Don't Starve: sml
+[01:22:13]: [Say] (KU_pvwb-Z0g) Charlotle: cio cong thuc chau tin
+[01:22:20]: [Say] (KU_NFyY3m5b) Don't Starve: gio xuong day :ds
+[01:22:44]: [Say] (KU_NFyY3m5b) Don't Starve: ct lam vuot ay ha?
+[01:22:56]: [Say] (KU_pvwb-Z0g) Charlotle: cong thuc alm banh lam vot
+[01:27:22]: [Say] (KU_pvwb-Z0g) Charlotle: vl
+[01:28:57]: [Say] (KU_NFyY3m5b) Don't Starve: ua vien gem di dau cmnr
+[01:29:02]: [Say] (KU_pvwb-Z0g) Charlotle: biet mio
+[01:29:10]: [Say] (KU_NFyY3m5b) Don't Starve: vl
+[01:29:18]: [Say] (KU_pvwb-Z0g) Charlotle: ahu het ui
+[01:29:23]: [Say] (KU_pvwb-Z0g) Charlotle: cahc hu
+[01:29:33]: [Say] (KU_NFyY3m5b) Don't Starve: ua no bi hu nua a
+[01:29:36]: [Say] (KU_NFyY3m5b) Don't Starve: ta de duoi dat ma
+[01:29:40]: [Say] (KU_NFyY3m5b) Don't Starve: hay de duoi dat no mat nhi
+[01:29:48]: [Say] (KU_pvwb-Z0g) Charlotle: mia chac dong dat
+[01:29:54]: [Say] (KU_pvwb-Z0g) Charlotle: da rot xuong vo?a
+[01:30:07]: [Say] (KU_NFyY3m5b) Don't Starve: the phai lam vien khac mmnr
+[01:30:12]: [Say] (KU_NFyY3m5b) Don't Starve: hoi cat vo ruong
+[01:30:18]: [Say] (KU_NFyY3m5b) Don't Starve: a` day roi :D
+[01:30:18]: [Say] (KU_pvwb-Z0g) Charlotle: kaka
+[01:30:26]: [Say] (KU_NFyY3m5b) Don't Starve: mie bo ben cho giai do
+[01:31:41]: [Say] (KU_pvwb-Z0g) Charlotle: cl no sao cai may cau ta het ddien duoc
+[01:35:03]: [Say] (KU_pvwb-Z0g) Charlotle: het go ui ak
+[01:35:19]: [Say] (KU_NFyY3m5b) Don't Starve: co it bet
+[01:35:25]: [Say] (KU_NFyY3m5b) Don't Starve: co ai chat dau :D
+[01:39:35]: [Say] (KU_NFyY3m5b) Don't Starve: do giai do do
+[01:39:39]: [Say] (KU_NFyY3m5b) Don't Starve: Huong scan dc ko?
+[01:39:45]: [Say] (KU_pvwb-Z0g) Charlotle: ko biert
+[01:39:51]: [Say] (KU_pvwb-Z0g) Charlotle: tin cu lay cong thuc
+[01:39:54]: [Say] (KU_pvwb-Z0g) Charlotle: alm 1 cai
+[01:39:56]: [Skin Announcement] Don't Starve feet_formal_stilettop_black_scribble
+[01:39:57]: [Say] (KU_pvwb-Z0g) Charlotle: dua ta
+[01:40:01]: [Say] (KU_pvwb-Z0g) Charlotle: ta kiem do scan
+[01:40:29]: [Say] (KU_NFyY3m5b) Don't Starve: ko co muoi bien
+[01:40:42]: [Say] (KU_pvwb-Z0g) Charlotle: ua con 6 cai am
+[01:40:46]: [Say] (KU_pvwb-Z0g) Charlotle: dua nao lam gi ui
+[01:40:47]: [Say] (KU_NFyY3m5b) Don't Starve: de ta ra kia dap
+[01:40:55]: [Say] (KU_pvwb-Z0g) Charlotle: dap di
+[01:40:56]: [Say] (KU_NFyY3m5b) Don't Starve: bua ta che do roi
+[01:41:02]: [Say] (KU_NFyY3m5b) Don't Starve: dap bang cuoc a
+[01:41:05]: [Say] (KU_pvwb-Z0g) Charlotle: uk
+[01:41:14]: [Say] (KU_pvwb-Z0g) Charlotle: amng cai mu? cuoi bien co con chim
+[01:41:17]: [Say] (KU_pvwb-Z0g) Charlotle: cho no nhat do
+[01:42:50]: [Say] (KU_pvwb-Z0g) Charlotle: gan he ui
+[01:43:06]: [Say] (KU_pvwb-Z0g) Charlotle: he xuong hang
+[01:43:12]: [Say] (KU_pvwb-Z0g) Charlotle: kiem duong danh boss dau trau
+[01:47:34]: [Say] (KU_pvwb-Z0g) Charlotle: doi ti
+[01:47:35]: [Say] (KU_NFyY3m5b) Don't Starve: di ia a
+[01:47:37]: [Say] (KU_NFyY3m5b) Don't Starve: :D
+[01:49:28]: [Say] (KU_pvwb-Z0g) Charlotle: g
+[01:49:31]: [Say] (KU_pvwb-Z0g) Charlotle: go
+[01:49:32]: [Say] (KU_NFyY3m5b) Don't Starve: go
+[01:50:57]: [Say] (KU_pvwb-Z0g) Charlotle: xml
+[01:51:12]: [Say] (KU_NFyY3m5b) Don't Starve: ve scan ne
+[01:51:21]: [Say] (KU_pvwb-Z0g) Charlotle: de tron ruong di
+[01:51:30]: [Say] (KU_NFyY3m5b) Don't Starve: ruong gan` leu` do'
+[01:51:34]: [Say] (KU_pvwb-Z0g) Charlotle: ok
+[01:55:36]: [Say] (KU_pvwb-Z0g) Charlotle: gan ram
+[01:55:49]: [Say] (KU_pvwb-Z0g) Charlotle: tion dap rift chua
+[01:56:53]: [Say] (KU_NFyY3m5b) Don't Starve: moi ra ma`
+[01:57:14]: [Say] (KU_pvwb-Z0g) Charlotle: ak co gay roi sao chua
+[01:57:20]: [Say] (KU_NFyY3m5b) Don't Starve: lam gi?
+[01:57:26]: [Say] (KU_NFyY3m5b) Don't Starve: co' tren nay 1 cay
+[01:57:29]: [Say] (KU_pvwb-Z0g) Charlotle: lamf cais gay roi abng kia
+[01:57:32]: [Say] (KU_pvwb-Z0g) Charlotle: amng xuong hang
+[01:57:47]: [Say] (KU_NFyY3m5b) Don't Starve: bua Huong cast nham` cay con` it do :D
+[01:58:03]: [Say] (KU_pvwb-Z0g) Charlotle: tin ranhq ua cam vao be da di
+[01:58:44]: [Say] (KU_NFyY3m5b) Don't Starve: oke
+[02:01:25]: [Say] (KU_pvwb-Z0g) Charlotle: nogn gan chet
+[02:01:47]: [Say] (KU_NFyY3m5b) Don't Starve: kkk
+[02:03:37]: [Say] (KU_pvwb-Z0g) Charlotle: tion kia
+[02:03:49]: [Say] (KU_NFyY3m5b) Don't Starve: de che
+[02:03:50]: [Say] (KU_pvwb-Z0g) Charlotle: ra boss ui doi cay bat
+[02:03:55]: [Say] (KU_pvwb-Z0g) Charlotle: co dau ma chet
+[02:04:05]: [Say] (KU_NFyY3m5b) Don't Starve: ta co cong thuc lamm vuot roi ma dm
+[02:04:10]: [Say] (KU_pvwb-Z0g) Charlotle: ngona
+[02:08:04]: [Say] (KU_pvwb-Z0g) Charlotle: cahy ganc het
+[02:08:39]: [Say] (KU_pvwb-Z0g) Charlotle: ah chet
+[02:08:48]: [Say] (KU_NFyY3m5b) Don't Starve: :D
+[02:09:00]: [Say] (KU_pvwb-Z0g) Charlotle: scan duoc
+[02:09:27]: [Say] (KU_pvwb-Z0g) Charlotle: co vot ui ak lam vot di
+[02:09:32]: [Say] (KU_NFyY3m5b) Don't Starve: de lam
+[02:09:49]: [Whisper] (KU_pvwb-Z0g) Charlotle: cua
+[02:09:56]: [Say] (KU_pvwb-Z0g) Charlotle: tin tahy tele cua ta ko
+[02:10:09]: [Say] (KU_NFyY3m5b) Don't Starve: nay thay de day ma
+[02:10:14]: [Say] (KU_pvwb-Z0g) Charlotle: uk
+[02:10:16]: [Say] (KU_pvwb-Z0g) Charlotle: san dien
+[02:10:18]: [Say] (KU_pvwb-Z0g) Charlotle: ne
+[02:10:20]: [Say] (KU_pvwb-Z0g) Charlotle: nup
+[02:10:25]: [Say] (KU_NFyY3m5b) Don't Starve: :D
+[02:10:41]: [Say] (KU_NFyY3m5b) Don't Starve: xuong chua?
+[02:10:46]: [Say] (KU_pvwb-Z0g) Charlotle: xuong
+[02:10:57]: [Say] (KU_pvwb-Z0g) Charlotle: au
+[02:11:00]: [Say] (KU_pvwb-Z0g) Charlotle: ko doi akd
+[02:11:04]: [Say] (KU_pvwb-Z0g) Charlotle: ram
+[02:11:06]: [Say] (KU_NFyY3m5b) Don't Starve: doi gi a'
+[02:11:12]: [Say] (KU_NFyY3m5b) Don't Starve: ram lamm gi do?
+[02:11:16]: [Say] (KU_pvwb-Z0g) Charlotle: cay gay ak
+[02:11:22]: [Say] (KU_NFyY3m5b) Don't Starve: oke
+[02:11:27]: [Say] (KU_pvwb-Z0g) Charlotle: may ngay nua
+[02:11:32]: [Say] (KU_NFyY3m5b) Don't Starve: mai
+[02:11:38]: [Say] (KU_pvwb-Z0g) Charlotle: het go ak
+[02:11:46]: [Say] (KU_NFyY3m5b) Don't Starve: ta co dung` dau
+[02:17:29]: [Say] (KU_pvwb-Z0g) Charlotle: toi ni ram ak
+[02:17:33]: [Say] (KU_NFyY3m5b) Don't Starve: um
+[02:19:56]: [Say] (KU_pvwb-Z0g) Charlotle: chaun bi
+[02:20:17]: [Say] (KU_pvwb-Z0g) Charlotle: dia
+[02:20:26]: [Say] (KU_pvwb-Z0g) Charlotle: di ko kipa
+[02:20:50]: [Say] (KU_pvwb-Z0g) Charlotle: kenh kenh
+[02:20:55]: [Say] (KU_pvwb-Z0g) Charlotle: mo
+[02:20:57]: [Say] (KU_pvwb-Z0g) Charlotle: dau
+[02:20:58]: [Say] (KU_NFyY3m5b) Don't Starve: ua
+[02:21:00]: [Say] (KU_NFyY3m5b) Don't Starve: ta co cam dau vl
+[02:21:04]: [Say] (KU_pvwb-Z0g) Charlotle: keu mi rap ma
+[02:21:15]: [Say] (KU_NFyY3m5b) Don't Starve: ua lap trc aw
+[02:21:18]: [Say] (KU_pvwb-Z0g) Charlotle: mia
+[02:21:34]: [Say] (KU_pvwb-Z0g) Charlotle: did
+[02:22:33]: [Say] (KU_pvwb-Z0g) Charlotle: ko kip
+[02:22:36]: [Say] (KU_NFyY3m5b) Don't Starve: kia
+[02:22:41]: [Say] (KU_pvwb-Z0g) Charlotle: chua duoc
+[02:22:42]: [Say] (KU_NFyY3m5b) Don't Starve: ko kip that
+[02:22:56]: [Say] (KU_pvwb-Z0g) Charlotle: roll ko
+[02:25:08]: [Say] (KU_NFyY3m5b) Don't Starve: rom co ma :D
+[02:25:14]: [Say] (KU_pvwb-Z0g) Charlotle: ma mo ra
+[02:25:18]: [Say] (KU_pvwb-Z0g) Charlotle: rom eo trieu hoi
+[02:25:27]: [Say] (KU_NFyY3m5b) Don't Starve: kkk
+[02:25:38]: [Say] (KU_pvwb-Z0g) Charlotle: ma toan phar
+[02:27:49]: [Say] (KU_pvwb-Z0g) Charlotle: cahy
+[02:27:52]: [Say] (KU_pvwb-Z0g) Charlotle: m,iad
+[02:29:11]: [Say] (KU_pvwb-Z0g) Charlotle: go
+[02:30:01]: [Say] (KU_pvwb-Z0g) Charlotle: kenh lenh
+[02:30:32]: [Say] (KU_pvwb-Z0g) Charlotle: lai di lam phao
+[02:38:14]: [Say] (KU_pvwb-Z0g) Charlotle: mia kenh klenh
+[02:38:17]: [Say] (KU_NFyY3m5b) Don't Starve: vl
+[02:38:21]: [Say] (KU_NFyY3m5b) Don't Starve: con` 1 con a
+[02:38:29]: [Say] (KU_pvwb-Z0g) Charlotle: thui ke di
+[02:38:30]: [Say] (KU_NFyY3m5b) Don't Starve: no thoi hu luon a
+[02:40:13]: [Say] (KU_NFyY3m5b) Don't Starve: mia hay dc 8 cuc gio dc 6 cuc
+[02:40:26]: [Say] (KU_pvwb-Z0g) Charlotle: :D
+[02:42:31]: [Say] (KU_pvwb-Z0g) Charlotle: fix mia
+[02:43:00]: [Say] (KU_NFyY3m5b) Don't Starve: sao the?
+[02:43:10]: [Say] (KU_pvwb-Z0g) Charlotle: fix bo xuogn ui
+[02:43:42]: [Say] (KU_NFyY3m5b) Don't Starve: giet Huong
+[02:44:49]: [Say] (KU_NFyY3m5b) Don't Starve: con 1 con
+[02:44:55]: [Say] (KU_pvwb-Z0g) Charlotle: moa
+[02:45:07]: [Say] (KU_NFyY3m5b) Don't Starve: go
+[02:45:19]: [Say] (KU_NFyY3m5b) Don't Starve: ti de y giet
+[02:46:41]: [Say] (KU_NFyY3m5b) Don't Starve: thoi bop
+[02:46:45]: [Say] (KU_pvwb-Z0g) Charlotle: bo
+[02:47:02]: [Say] (KU_pvwb-Z0g) Charlotle: hu len xay tuong
+[02:54:32]: [Say] (KU_pvwb-Z0g) Charlotle: alm chi do tin
+[02:54:44]: [Say] (KU_NFyY3m5b) Don't Starve: doi skin hang` rao` :D
+[02:55:00]: [Say] (KU_pvwb-Z0g) Charlotle: xuonf hanf kiem duogn qua boss nao
+[02:55:06]: [Say] (KU_NFyY3m5b) Don't Starve: oke
+[02:56:36]: [Say] (KU_NFyY3m5b) Don't Starve: xuong nao`
+[02:56:39]: [Say] (KU_NFyY3m5b) Don't Starve: ta goi' do` xuong
+[02:56:56]: [Say] (KU_pvwb-Z0g) Charlotle: ok
+[02:58:27]: [Say] (KU_NFyY3m5b) Don't Starve: doi ti :D
+[02:58:31]: [Say] (KU_pvwb-Z0g) Charlotle: di dai luon
+[02:58:34]: [Say] (KU_NFyY3m5b) Don't Starve: oke
+[02:59:46]: [Say] (KU_pvwb-Z0g) Charlotle: ok chua mang muoi bien xuong nha
+[02:59:48]: [Say] (KU_pvwb-Z0g) Charlotle: lam vot
+[03:00:41]: [Say] (KU_NFyY3m5b) Don't Starve: go
+[03:00:51]: [Say] (KU_NFyY3m5b) Don't Starve: ta xuong lam cho
+[03:00:52]: [Say] (KU_pvwb-Z0g) Charlotle: nho mang muoi bien nha
+[03:00:55]: [Say] (KU_NFyY3m5b) Don't Starve: lam 2 cai oke nhi
+[03:01:10]: [Say] (KU_pvwb-Z0g) Charlotle: 8 cai
+[03:02:42]: [Say] (KU_pvwb-Z0g) Charlotle: eun do vl
+[03:02:55]: [Say] (KU_NFyY3m5b) Don't Starve: ua v
+[03:02:58]: [Say] (KU_NFyY3m5b) Don't Starve: roll cai
+[03:03:08]: [Say] (KU_NFyY3m5b) Don't Starve: sao may con chim no an con chest xong mat het do` luon
+[03:03:15]: [Say] (KU_NFyY3m5b) Don't Starve: Huong lam chi do?
+[03:03:20]: [Say] (KU_pvwb-Z0g) Charlotle: uirn do
+[03:06:50]: [Say] (KU_NFyY3m5b) Don't Starve: roll 2d luon roi thi phai
+[03:07:03]: [Say] (KU_pvwb-Z0g) Charlotle: chet ch3est chua
+[03:07:07]: [Say] (KU_NFyY3m5b) Don't Starve: con`
+[03:12:26]: [Say] (KU_NFyY3m5b) Don't Starve: xuong chua?
+[03:12:29]: [Say] (KU_pvwb-Z0g) Charlotle: ui
+[03:16:33]: [Say] (KU_NFyY3m5b) Don't Starve: Huong lam gi do
+[03:16:39]: [Say] (KU_pvwb-Z0g) Charlotle: danh suc tu
+[03:16:48]: [Say] (KU_pvwb-Z0g) Charlotle: tin che vot di
+[03:18:22]: [Say] (KU_NFyY3m5b) Don't Starve: roi do Huong lay bat do` di
+[03:18:31]: [Say] (KU_NFyY3m5b) Don't Starve: xong roi che cai kia
+[03:18:33]: [Say] (KU_pvwb-Z0g) Charlotle: de nha di
+[03:21:03]: [Say] (KU_pvwb-Z0g) Charlotle: nhu cc
+[03:25:38]: [Say] (KU_pvwb-Z0g) Charlotle: het ho giun co the thay ui
+[03:27:45]: [Say] (KU_NFyY3m5b) Don't Starve: ko co luon a
+[03:28:42]: [Say] (KU_pvwb-Z0g) Charlotle: eo coa
+[03:29:46]: [Say] (KU_pvwb-Z0g) Charlotle: tin chup xem co may ho nao
+[03:29:56]: [Say] (KU_NFyY3m5b) Don't Starve: de ta share lai map
+[03:29:59]: [Say] (KU_pvwb-Z0g) Charlotle: ko alm sahre map xem na
+[03:32:43]: [Say] (KU_pvwb-Z0g) Charlotle: thay 2 ho de cahy klen
+[03:32:45]: [Say] (KU_pvwb-Z0g) Charlotle: xa
+[03:34:50]: [Say] (KU_pvwb-Z0g) Charlotle: eo phai
+[03:35:38]: [Say] (KU_NFyY3m5b) Don't Starve: ua meo dem con robot xuong dc a
+[03:35:48]: [Say] (KU_pvwb-Z0g) Charlotle: biet mo
+[03:36:28]: [Say] (KU_pvwb-Z0g) Charlotle: ang cap 1 rung duoi ni di
+[03:36:32]: [Say] (KU_pvwb-Z0g) Charlotle: hui ta lam robot
+[03:36:36]: [Say] (KU_NFyY3m5b) Don't Starve: u`
+[03:36:39]: [Say] (KU_NFyY3m5b) Don't Starve: de len lay
+[03:38:49]: [Say] (KU_NFyY3m5b) Don't Starve: van o duoi hang ma qua nhiet a
+[03:38:53]: [Say] (KU_pvwb-Z0g) Charlotle: uk
+[03:38:59]: [Say] (KU_pvwb-Z0g) Charlotle: buoc vao moi qua nhiet
+[03:39:18]: [Say] (KU_pvwb-Z0g) Charlotle: qua danh nao tin
+[03:39:24]: [Say] (KU_NFyY3m5b) Don't Starve: co roi a`
+[03:39:28]: [Say] (KU_pvwb-Z0g) Charlotle: chua
+[03:39:31]: [Say] (KU_pvwb-Z0g) Charlotle: a nhert gan chet
+[03:40:08]: [Say] (KU_NFyY3m5b) Don't Starve: chua ma` qua danh gi the
+[03:40:17]: [Say] (KU_pvwb-Z0g) Charlotle: danh ho giun
+[03:40:23]: [Say] (KU_NFyY3m5b) Don't Starve: a` oke
+[03:41:06]: [Say] (KU_pvwb-Z0g) Charlotle: ak dung ui
+[03:41:13]: [Say] (KU_NFyY3m5b) Don't Starve: sao?
+[03:41:18]: [Say] (KU_pvwb-Z0g) Charlotle: ben ni che tao may cai do moi can nhiet do
+[03:41:21]: [Say] (KU_pvwb-Z0g) Charlotle: hen gi no nongg
+[03:41:32]: [Say] (KU_NFyY3m5b) Don't Starve: :D
+[03:42:08]: [Say] (KU_NFyY3m5b) Don't Starve: kkk
+[03:42:45]: [Say] (KU_pvwb-Z0g) Charlotle: da qua
+[03:42:57]: [Say] (KU_NFyY3m5b) Don't Starve: ngon
+[03:42:59]: [Say] (KU_NFyY3m5b) Don't Starve: hoi xa nhi
+[03:43:29]: [Death Announcement] Charlotle was killed by Damaged Bishop. She became a spooky ghost!
+[03:43:33]: [Say] (KU_pvwb-Z0g) Charlotle: mia
+[03:43:33]: [Say] (KU_NFyY3m5b) Don't Starve: vl
+[03:43:39]: [Say] (KU_pvwb-Z0g) Charlotle: roll
+[03:43:54]: [Say] (KU_pvwb-Z0g) Charlotle: mang do qua danh
+[03:46:15]: [Say] (KU_NFyY3m5b) Don't Starve: biet cho~ roi a`
+[03:46:19]: [Say] (KU_pvwb-Z0g) Charlotle: uk
+[03:55:23]: [Say] (KU_pvwb-Z0g) Charlotle: gan het gay tele
+[03:55:34]: [Say] (KU_pvwb-Z0g) Charlotle: gay tele hoi phuc duoc ko nhi tin
+[03:55:41]: [Say] (KU_NFyY3m5b) Don't Starve: hinh nhu ko
+[03:57:04]: [Say] (KU_pvwb-Z0g) Charlotle: tin mo ui
+[03:57:13]: [Say] (KU_NFyY3m5b) Don't Starve: len tren ti
+[03:59:22]: [Say] (KU_NFyY3m5b) Don't Starve: ua vl
+[03:59:25]: [Say] (KU_pvwb-Z0g) Charlotle: sao
+[03:59:31]: [Say] (KU_NFyY3m5b) Don't Starve: het rift nhanh the
+[03:59:38]: [Say] (KU_NFyY3m5b) Don't Starve: danh tinh chay qua dap
+[04:00:33]: [Say] (KU_pvwb-Z0g) Charlotle: trai tim den mo ui tin
+[04:00:41]: [Say] (KU_NFyY3m5b) Don't Starve: day
+[04:00:54]: [Say] (KU_pvwb-Z0g) Charlotle: hui amng xuong nha
+[04:02:51]: [Say] (KU_pvwb-Z0g) Charlotle: mi danh t gaic chua tin
+[04:03:06]: [Say] (KU_NFyY3m5b) Don't Starve: chua :D
+[04:03:08]: [Say] (KU_NFyY3m5b) Don't Starve: kkk
+[04:03:12]: [Say] (KU_pvwb-Z0g) Charlotle: det
+[04:03:15]: [Say] (KU_pvwb-Z0g) Charlotle: mai danh
+[04:03:19]: [Say] (KU_NFyY3m5b) Don't Starve: um`
+[04:03:23]: [Say] (KU_NFyY3m5b) Don't Starve: off :D
+[04:04:01]: [Say] (KU_pvwb-Z0g) Charlotle: off chua
+[04:04:11]: [Say] (KU_NFyY3m5b) Don't Starve: ti nua
+[04:04:15]: [Say] (KU_NFyY3m5b) Don't Starve: lam chi nua ko?
+[04:04:29]: [Say] (KU_pvwb-Z0g) Charlotle: amgn do qua cho boss chua chi
+[04:04:37]: [Say] (KU_NFyY3m5b) Don't Starve: rua ta danh te giac da
+[04:04:43]: [Say] (KU_pvwb-Z0g) Charlotle: danh di
+[04:04:46]: [Say] (KU_pvwb-Z0g) Charlotle: ui off
+[04:04:53]: [Say] (KU_pvwb-Z0g) Charlotle: di danh luon
+[04:04:56]: [Say] (KU_NFyY3m5b) Don't Starve: go
+[04:04:56]: [Say] (KU_pvwb-Z0g) Charlotle: mo chi duong
+[04:05:08]: [Say] (KU_NFyY3m5b) Don't Starve: share map thay roi ma
+[04:05:25]: [Say] (KU_NFyY3m5b) Don't Starve: thue nguoi da'
+[04:05:26]: [Say] (KU_pvwb-Z0g) Charlotle: nahc nhin
+[04:05:29]: [Say] (KU_pvwb-Z0g) Charlotle: solo
+[04:05:33]: [Say] (KU_NFyY3m5b) Don't Starve: okes
+[04:05:51]: [Say] (KU_pvwb-Z0g) Charlotle: di
+[04:06:15]: [Say] (KU_pvwb-Z0g) Charlotle: heo mo
+[04:06:21]: [Say] (KU_NFyY3m5b) Don't Starve: chua danh heo 2 mna
+[04:07:08]: [Say] (KU_NFyY3m5b) Don't Starve: nham`
+[04:08:48]: [Say] (KU_NFyY3m5b) Don't Starve: ghe vld
+[04:09:38]: [Say] (KU_pvwb-Z0g) Charlotle: tin sahrte co tahy mo
+[04:09:51]: [Say] (KU_pvwb-Z0g) Charlotle: geuit bionga
+[04:11:01]: [Say] (KU_pvwb-Z0g) Charlotle: huc tuong
+[04:11:36]: [Say] (KU_NFyY3m5b) Don't Starve: doi ti
+[04:11:37]: [Say] (KU_pvwb-Z0g) Charlotle: sao do
+[04:11:58]: [Say] (KU_NFyY3m5b) Don't Starve: go
+[04:12:02]: [Say] (KU_NFyY3m5b) Don't Starve: mie vo keu lay gium do :D
+[04:12:03]: [Say] (KU_pvwb-Z0g) Charlotle: go
+[04:12:08]: [Say] (KU_NFyY3m5b) Don't Starve: le roi off naao
+[04:12:10]: [Say] (KU_NFyY3m5b) Don't Starve: nhan roi :D
+[04:12:47]: [Say] (KU_NFyY3m5b) Don't Starve: mia nguoi da'
+[04:13:02]: [Say] (KU_pvwb-Z0g) Charlotle: de do amng ve
+[04:13:08]: [Say] (KU_NFyY3m5b) Don't Starve: oke
+[04:13:09]: [Say] (KU_pvwb-Z0g) Charlotle: con chi ko
+[04:13:12]: [Say] (KU_pvwb-Z0g) Charlotle: tin ve nha
+[04:13:29]: [Say] (KU_pvwb-Z0g) Charlotle: quen mia
+[04:13:35]: [Say] (KU_pvwb-Z0g) Charlotle: an me cai cong thuc almf tru
+[04:13:49]: [Say] (KU_pvwb-Z0g) Charlotle: quien cam, tele
+[04:13:52]: [Say] (KU_pvwb-Z0g) Charlotle: ve
+[04:15:42]: [Say] (KU_NFyY3m5b) Don't Starve: bo` gan` chet toi vl :Dd
+[04:15:47]: [Say] (KU_pvwb-Z0g) Charlotle: an mau vao
+[04:16:25]: [Say] (KU_pvwb-Z0g) Charlotle: mat mia mu chuot chui
+[04:16:30]: [Say] (KU_NFyY3m5b) Don't Starve: :D
+[04:16:31]: [Say] (KU_NFyY3m5b) Don't Starve: quen a`
+[04:16:34]: [Say] (KU_pvwb-Z0g) Charlotle: quen
+[04:16:36]: [Say] (KU_NFyY3m5b) Don't Starve: lam cai khac
+[04:16:41]: [Say] (KU_NFyY3m5b) Don't Starve: co 2 con chuot gan` nha` kia
+[04:16:50]: [Say] (KU_pvwb-Z0g) Charlotle: ko co hoa
+[04:16:57]: [Say] (KU_NFyY3m5b) Don't Starve: de giet sau cho
+[04:17:06]: [Say] (KU_NFyY3m5b) Don't Starve: co may con sau ben cho lam` cong thuc
+[04:18:01]: [Say] (KU_NFyY3m5b) Don't Starve: off
+[04:18:12]: [Say] (KU_pvwb-Z0g) Charlotle: cao doa
+[04:18:16]: [Leave Announcement] Don't Starve
+[04:18:32]: [Leave Announcement] Charlotle

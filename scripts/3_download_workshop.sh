@@ -46,4 +46,4 @@ for workshop_id in "${workshop_ids[@]}"; do
 done
 
 # Start the server
-bash "$HOME/dst-server/scripts/4_run_servers.sh"
+# bash "$HOME/dst-server/scripts/4_run_servers.sh"

@@ -1,0 +1,10 @@
+[00:03:11]: [Join Announcement] Don't Starve
+[00:05:27]: [Join Announcement] Charlotle
+[00:05:43]: [Say] (KU_NFyY3m5b) Don't Starve: go
+[00:05:58]: [Say] (KU_pvwb-Z0g) Charlotle: lag
+[00:06:26]: [Say] (KU_pvwb-Z0g) Charlotle: lag vl
+[00:06:31]: [Say] (KU_NFyY3m5b) Don't Starve: 3 vach ma
+[00:06:36]: [Whisper] (KU_pvwb-Z0g) Charlotle: y
+[00:06:39]: [Say] (KU_pvwb-Z0g) Charlotle: uk eo hiu sao
+[00:07:28]: [Leave Announcement] Charlotle
+[00:09:36]: [Leave Announcement] Don't Starve
